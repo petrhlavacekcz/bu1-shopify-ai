@@ -1,0 +1,2002 @@
+[
+  {
+    "country": "China",
+    "channel": "Direct",
+    "sessions": 105972,
+    "engaged_sessions": 72759,
+    "engagement_rate": 0.6865870229872042,
+    "avg_session_duration": 6.00604059398709,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Czechia",
+    "channel": "Paid Search",
+    "sessions": 10648,
+    "engaged_sessions": 8335,
+    "engagement_rate": 0.7827761081893313,
+    "avg_session_duration": 265.43756526361756,
+    "conversions": 431.0,
+    "revenue": 536654.1999440001
+  },
+  {
+    "country": "Czechia",
+    "channel": "Paid Social",
+    "sessions": 6963,
+    "engaged_sessions": 4455,
+    "engagement_rate": 0.6398104265402843,
+    "avg_session_duration": 124.64257965919863,
+    "conversions": 81.0,
+    "revenue": 83903.20001699998
+  },
+  {
+    "country": "Czechia",
+    "channel": "Direct",
+    "sessions": 6863,
+    "engaged_sessions": 4725,
+    "engagement_rate": 0.6884744280926709,
+    "avg_session_duration": 219.46343319306425,
+    "conversions": 232.0,
+    "revenue": 354794.39996499993
+  },
+  {
+    "country": "Czechia",
+    "channel": "Organic Search",
+    "sessions": 5376,
+    "engaged_sessions": 4312,
+    "engagement_rate": 0.8020833333333334,
+    "avg_session_duration": 266.7397057786458,
+    "conversions": 99.0,
+    "revenue": 128676.00000699998
+  },
+  {
+    "country": "Singapore",
+    "channel": "Direct",
+    "sessions": 3874,
+    "engaged_sessions": 1472,
+    "engagement_rate": 0.37996902426432627,
+    "avg_session_duration": 3.8295878606091898,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Slovakia",
+    "channel": "Paid Search",
+    "sessions": 3585,
+    "engaged_sessions": 2949,
+    "engagement_rate": 0.8225941422594142,
+    "avg_session_duration": 284.5795147316597,
+    "conversions": 119.0,
+    "revenue": 159943.815285
+  },
+  {
+    "country": "Czechia",
+    "channel": "Cross-network",
+    "sessions": 2793,
+    "engaged_sessions": 2251,
+    "engagement_rate": 0.8059434300035804,
+    "avg_session_duration": 266.9607333236663,
+    "conversions": 80.0,
+    "revenue": 90360.59996799998
+  },
+  {
+    "country": "Czechia",
+    "channel": "Unassigned",
+    "sessions": 1925,
+    "engaged_sessions": 1384,
+    "engagement_rate": 0.7189610389610389,
+    "avg_session_duration": 246.35085018077922,
+    "conversions": 65.0,
+    "revenue": 80873.00001999999
+  },
+  {
+    "country": "Slovakia",
+    "channel": "Paid Social",
+    "sessions": 1898,
+    "engaged_sessions": 886,
+    "engagement_rate": 0.46680716543730244,
+    "avg_session_duration": 215.7866694857745,
+    "conversions": 16.0,
+    "revenue": 19956.632105
+  },
+  {
+    "country": "Slovakia",
+    "channel": "Organic Search",
+    "sessions": 1867,
+    "engaged_sessions": 1498,
+    "engagement_rate": 0.802356722013926,
+    "avg_session_duration": 242.1913103079807,
+    "conversions": 25.0,
+    "revenue": 35709.521848000004
+  },
+  {
+    "country": "China",
+    "channel": "Unassigned",
+    "sessions": 1808,
+    "engaged_sessions": 132,
+    "engagement_rate": 0.07300884955752213,
+    "avg_session_duration": 2.4220564015486725,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "(not set)",
+    "channel": "Direct",
+    "sessions": 1542,
+    "engaged_sessions": 27,
+    "engagement_rate": 0.017509727626459144,
+    "avg_session_duration": 2.1968534481193256,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Slovakia",
+    "channel": "Direct",
+    "sessions": 1416,
+    "engaged_sessions": 974,
+    "engagement_rate": 0.6878531073446328,
+    "avg_session_duration": 200.6433778728814,
+    "conversions": 38.0,
+    "revenue": 50523.205262
+  },
+  {
+    "country": "Romania",
+    "channel": "Organic Search",
+    "sessions": 1112,
+    "engaged_sessions": 868,
+    "engagement_rate": 0.7805755395683454,
+    "avg_session_duration": 106.38103047392087,
+    "conversions": 5.0,
+    "revenue": 8835.244346
+  },
+  {
+    "country": "Czechia",
+    "channel": "Organic Social",
+    "sessions": 1102,
+    "engaged_sessions": 818,
+    "engagement_rate": 0.7422867513611615,
+    "avg_session_duration": 115.81324390744102,
+    "conversions": 8.0,
+    "revenue": 9407.999996
+  },
+  {
+    "country": "United States",
+    "channel": "Direct",
+    "sessions": 1086,
+    "engaged_sessions": 673,
+    "engagement_rate": 0.6197053406998159,
+    "avg_session_duration": 29.078174238489872,
+    "conversions": 3.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Italy",
+    "channel": "Organic Search",
+    "sessions": 982,
+    "engaged_sessions": 731,
+    "engagement_rate": 0.7443991853360489,
+    "avg_session_duration": 103.32952437270875,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Hungary",
+    "channel": "Paid Social",
+    "sessions": 943,
+    "engaged_sessions": 449,
+    "engagement_rate": 0.47613997879109227,
+    "avg_session_duration": 109.55046770837751,
+    "conversions": 3.0,
+    "revenue": 3721.386399
+  },
+  {
+    "country": "Hungary",
+    "channel": "Paid Search",
+    "sessions": 808,
+    "engaged_sessions": 659,
+    "engagement_rate": 0.8155940594059405,
+    "avg_session_duration": 134.3704636398515,
+    "conversions": 6.0,
+    "revenue": 8262.478737000001
+  },
+  {
+    "country": "Slovakia",
+    "channel": "Unassigned",
+    "sessions": 807,
+    "engaged_sessions": 611,
+    "engagement_rate": 0.7571251548946716,
+    "avg_session_duration": 200.75008157744733,
+    "conversions": 22.0,
+    "revenue": 26514.894601000004
+  },
+  {
+    "country": "Austria",
+    "channel": "Paid Social",
+    "sessions": 704,
+    "engaged_sessions": 201,
+    "engagement_rate": 0.28551136363636365,
+    "avg_session_duration": 85.91459505965908,
+    "conversions": 1.0,
+    "revenue": 1168.551383
+  },
+  {
+    "country": "United Kingdom",
+    "channel": "Organic Search",
+    "sessions": 670,
+    "engaged_sessions": 501,
+    "engagement_rate": 0.7477611940298508,
+    "avg_session_duration": 182.01536973880596,
+    "conversions": 4.0,
+    "revenue": 9684.520515
+  },
+  {
+    "country": "Poland",
+    "channel": "Organic Search",
+    "sessions": 623,
+    "engaged_sessions": 490,
+    "engagement_rate": 0.7865168539325843,
+    "avg_session_duration": 122.22043776243981,
+    "conversions": 2.0,
+    "revenue": 3242.5475399999996
+  },
+  {
+    "country": "Austria",
+    "channel": "Paid Search",
+    "sessions": 615,
+    "engaged_sessions": 489,
+    "engagement_rate": 0.7951219512195122,
+    "avg_session_duration": 169.0140806211382,
+    "conversions": 10.0,
+    "revenue": 6573.793247
+  },
+  {
+    "country": "Bulgaria",
+    "channel": "Organic Search",
+    "sessions": 583,
+    "engaged_sessions": 466,
+    "engagement_rate": 0.7993138936535163,
+    "avg_session_duration": 108.25648087307033,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Germany",
+    "channel": "Organic Search",
+    "sessions": 526,
+    "engaged_sessions": 401,
+    "engagement_rate": 0.7623574144486692,
+    "avg_session_duration": 115.34068568441064,
+    "conversions": 2.0,
+    "revenue": 3202.606085
+  },
+  {
+    "country": "(not set)",
+    "channel": "Paid Search",
+    "sessions": 525,
+    "engaged_sessions": 0,
+    "engagement_rate": 0.0,
+    "avg_session_duration": 0.0,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "United States",
+    "channel": "Organic Search",
+    "sessions": 504,
+    "engaged_sessions": 347,
+    "engagement_rate": 0.6884920634920635,
+    "avg_session_duration": 161.24107425396826,
+    "conversions": 2.0,
+    "revenue": 2261.416226
+  },
+  {
+    "country": "Hungary",
+    "channel": "Organic Search",
+    "sessions": 445,
+    "engaged_sessions": 352,
+    "engagement_rate": 0.7910112359550562,
+    "avg_session_duration": 154.3125158764045,
+    "conversions": 1.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "France",
+    "channel": "Organic Search",
+    "sessions": 432,
+    "engaged_sessions": 310,
+    "engagement_rate": 0.7175925925925926,
+    "avg_session_duration": 104.49285434953705,
+    "conversions": 9.0,
+    "revenue": 10869.399997999999
+  },
+  {
+    "country": "Spain",
+    "channel": "Organic Search",
+    "sessions": 422,
+    "engaged_sessions": 322,
+    "engagement_rate": 0.7630331753554502,
+    "avg_session_duration": 147.00149565876777,
+    "conversions": 1.0,
+    "revenue": 1964.443631
+  },
+  {
+    "country": "Croatia",
+    "channel": "Organic Search",
+    "sessions": 413,
+    "engaged_sessions": 320,
+    "engagement_rate": 0.774818401937046,
+    "avg_session_duration": 116.93450449878935,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Czechia",
+    "channel": "Referral",
+    "sessions": 387,
+    "engaged_sessions": 246,
+    "engagement_rate": 0.6356589147286822,
+    "avg_session_duration": 201.90036186046513,
+    "conversions": 8.0,
+    "revenue": 10552.400002
+  },
+  {
+    "country": "Austria",
+    "channel": "Organic Search",
+    "sessions": 344,
+    "engaged_sessions": 279,
+    "engagement_rate": 0.811046511627907,
+    "avg_session_duration": 197.41388989825583,
+    "conversions": 3.0,
+    "revenue": 2719.467902
+  },
+  {
+    "country": "Slovakia",
+    "channel": "Organic Social",
+    "sessions": 334,
+    "engaged_sessions": 241,
+    "engagement_rate": 0.7215568862275449,
+    "avg_session_duration": 142.67161216467065,
+    "conversions": 4.0,
+    "revenue": 5982.799589
+  },
+  {
+    "country": "Brazil",
+    "channel": "Direct",
+    "sessions": 313,
+    "engaged_sessions": 109,
+    "engagement_rate": 0.34824281150159747,
+    "avg_session_duration": 16.903003747603837,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Czechia",
+    "channel": "Paid Other",
+    "sessions": 276,
+    "engaged_sessions": 113,
+    "engagement_rate": 0.40942028985507245,
+    "avg_session_duration": 298.5601882173913,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Germany",
+    "channel": "Direct",
+    "sessions": 236,
+    "engaged_sessions": 142,
+    "engagement_rate": 0.6016949152542372,
+    "avg_session_duration": 56.59650658474576,
+    "conversions": 1.0,
+    "revenue": 2776.877586
+  },
+  {
+    "country": "United Kingdom",
+    "channel": "Organic Social",
+    "sessions": 233,
+    "engaged_sessions": 62,
+    "engagement_rate": 0.26609442060085836,
+    "avg_session_duration": 16.96705178969957,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "United States",
+    "channel": "Organic Social",
+    "sessions": 220,
+    "engaged_sessions": 107,
+    "engagement_rate": 0.4863636363636364,
+    "avg_session_duration": 29.745176513636363,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Austria",
+    "channel": "Direct",
+    "sessions": 212,
+    "engaged_sessions": 142,
+    "engagement_rate": 0.6698113207547169,
+    "avg_session_duration": 193.75262423113205,
+    "conversions": 6.0,
+    "revenue": 4471.344005
+  },
+  {
+    "country": "Czechia",
+    "channel": "Organic Shopping",
+    "sessions": 211,
+    "engaged_sessions": 154,
+    "engagement_rate": 0.7298578199052133,
+    "avg_session_duration": 384.98073820853085,
+    "conversions": 5.0,
+    "revenue": 3546.9999930000004
+  },
+  {
+    "country": "Serbia",
+    "channel": "Organic Search",
+    "sessions": 172,
+    "engaged_sessions": 133,
+    "engagement_rate": 0.7732558139534884,
+    "avg_session_duration": 197.00983088372092,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Pakistan",
+    "channel": "Organic Search",
+    "sessions": 169,
+    "engaged_sessions": 136,
+    "engagement_rate": 0.8047337278106509,
+    "avg_session_duration": 298.3934283668639,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "United Kingdom",
+    "channel": "Paid Social",
+    "sessions": 161,
+    "engaged_sessions": 117,
+    "engagement_rate": 0.7267080745341615,
+    "avg_session_duration": 104.67096755279502,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Vietnam",
+    "channel": "Direct",
+    "sessions": 157,
+    "engaged_sessions": 62,
+    "engagement_rate": 0.39490445859872614,
+    "avg_session_duration": 4.46738896178344,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Austria",
+    "channel": "Organic Social",
+    "sessions": 153,
+    "engaged_sessions": 110,
+    "engagement_rate": 0.7189542483660131,
+    "avg_session_duration": 75.78721548366013,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Bosnia & Herzegovina",
+    "channel": "Organic Search",
+    "sessions": 150,
+    "engaged_sessions": 115,
+    "engagement_rate": 0.7666666666666667,
+    "avg_session_duration": 82.01787432,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "United States",
+    "channel": "Unassigned",
+    "sessions": 147,
+    "engaged_sessions": 61,
+    "engagement_rate": 0.41496598639455784,
+    "avg_session_duration": 56.14655040136054,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Indonesia",
+    "channel": "Paid Search",
+    "sessions": 129,
+    "engaged_sessions": 105,
+    "engagement_rate": 0.813953488372093,
+    "avg_session_duration": 499.93296653488375,
+    "conversions": 7.0,
+    "revenue": 9733.007543
+  },
+  {
+    "country": "Indonesia",
+    "channel": "Direct",
+    "sessions": 125,
+    "engaged_sessions": 66,
+    "engagement_rate": 0.528,
+    "avg_session_duration": 106.749831624,
+    "conversions": 1.0,
+    "revenue": 1642.580115
+  },
+  {
+    "country": "Australia",
+    "channel": "Organic Search",
+    "sessions": 122,
+    "engaged_sessions": 95,
+    "engagement_rate": 0.7786885245901639,
+    "avg_session_duration": 155.02986050819672,
+    "conversions": 1.0,
+    "revenue": 2350.907116
+  },
+  {
+    "country": "Hungary",
+    "channel": "Direct",
+    "sessions": 122,
+    "engaged_sessions": 60,
+    "engagement_rate": 0.4918032786885246,
+    "avg_session_duration": 59.098211286885245,
+    "conversions": 1.0,
+    "revenue": 1478.602802
+  },
+  {
+    "country": "Slovakia",
+    "channel": "Paid Other",
+    "sessions": 116,
+    "engaged_sessions": 38,
+    "engagement_rate": 0.3275862068965517,
+    "avg_session_duration": 233.31330289655173,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Switzerland",
+    "channel": "Organic Search",
+    "sessions": 116,
+    "engaged_sessions": 80,
+    "engagement_rate": 0.6896551724137931,
+    "avg_session_duration": 1581.2318073275862,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Germany",
+    "channel": "Paid Search",
+    "sessions": 115,
+    "engaged_sessions": 103,
+    "engagement_rate": 0.8956521739130435,
+    "avg_session_duration": 197.41617766086955,
+    "conversions": 5.0,
+    "revenue": 3033.7143889999998
+  },
+  {
+    "country": "United Kingdom",
+    "channel": "Direct",
+    "sessions": 114,
+    "engaged_sessions": 56,
+    "engagement_rate": 0.49122807017543857,
+    "avg_session_duration": 108.95432606140352,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Indonesia",
+    "channel": "Organic Search",
+    "sessions": 111,
+    "engaged_sessions": 81,
+    "engagement_rate": 0.7297297297297297,
+    "avg_session_duration": 124.37769062162162,
+    "conversions": 1.0,
+    "revenue": 1198.999998
+  },
+  {
+    "country": "Mexico",
+    "channel": "Organic Search",
+    "sessions": 110,
+    "engaged_sessions": 72,
+    "engagement_rate": 0.6545454545454545,
+    "avg_session_duration": 134.17868852727273,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Singapore",
+    "channel": "Unassigned",
+    "sessions": 106,
+    "engaged_sessions": 14,
+    "engagement_rate": 0.1320754716981132,
+    "avg_session_duration": 1.3348701320754717,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Romania",
+    "channel": "Direct",
+    "sessions": 103,
+    "engaged_sessions": 56,
+    "engagement_rate": 0.5436893203883495,
+    "avg_session_duration": 49.67229050485437,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Canada",
+    "channel": "Organic Search",
+    "sessions": 100,
+    "engaged_sessions": 71,
+    "engagement_rate": 0.71,
+    "avg_session_duration": 72.25069829,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Serbia",
+    "channel": "Organic Social",
+    "sessions": 100,
+    "engaged_sessions": 67,
+    "engagement_rate": 0.67,
+    "avg_session_duration": 64.65335023,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Slovakia",
+    "channel": "Referral",
+    "sessions": 100,
+    "engaged_sessions": 70,
+    "engagement_rate": 0.7,
+    "avg_session_duration": 170.74084792999997,
+    "conversions": 2.0,
+    "revenue": 3698.704387
+  },
+  {
+    "country": "United States",
+    "channel": "Paid Social",
+    "sessions": 99,
+    "engaged_sessions": 54,
+    "engagement_rate": 0.5454545454545454,
+    "avg_session_duration": 31.928108949494945,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Netherlands",
+    "channel": "Organic Search",
+    "sessions": 97,
+    "engaged_sessions": 71,
+    "engagement_rate": 0.7319587628865979,
+    "avg_session_duration": 143.74207516494846,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Netherlands",
+    "channel": "Direct",
+    "sessions": 93,
+    "engaged_sessions": 54,
+    "engagement_rate": 0.5806451612903226,
+    "avg_session_duration": 62.45586661290322,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Italy",
+    "channel": "Paid Social",
+    "sessions": 89,
+    "engaged_sessions": 62,
+    "engagement_rate": 0.6966292134831461,
+    "avg_session_duration": 116.76575939325843,
+    "conversions": 1.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Brazil",
+    "channel": "Unassigned",
+    "sessions": 88,
+    "engaged_sessions": 7,
+    "engagement_rate": 0.07954545454545454,
+    "avg_session_duration": 61.69617902272727,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Poland",
+    "channel": "Direct",
+    "sessions": 86,
+    "engaged_sessions": 56,
+    "engagement_rate": 0.6511627906976745,
+    "avg_session_duration": 157.247396,
+    "conversions": 2.0,
+    "revenue": 4820.746704
+  },
+  {
+    "country": "Hong Kong",
+    "channel": "Direct",
+    "sessions": 85,
+    "engaged_sessions": 33,
+    "engagement_rate": 0.38823529411764707,
+    "avg_session_duration": 18.085274258823528,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Indonesia",
+    "channel": "Paid Social",
+    "sessions": 82,
+    "engaged_sessions": 37,
+    "engagement_rate": 0.45121951219512196,
+    "avg_session_duration": 159.0239180609756,
+    "conversions": 2.0,
+    "revenue": 3054.8912790000004
+  },
+  {
+    "country": "India",
+    "channel": "Organic Search",
+    "sessions": 80,
+    "engaged_sessions": 57,
+    "engagement_rate": 0.7125,
+    "avg_session_duration": 120.49246745,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Belgium",
+    "channel": "Organic Search",
+    "sessions": 79,
+    "engaged_sessions": 67,
+    "engagement_rate": 0.8481012658227848,
+    "avg_session_duration": 82.37046860759494,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "India",
+    "channel": "Direct",
+    "sessions": 78,
+    "engaged_sessions": 36,
+    "engagement_rate": 0.46153846153846156,
+    "avg_session_duration": 21.617251000000003,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Italy",
+    "channel": "Direct",
+    "sessions": 78,
+    "engaged_sessions": 56,
+    "engagement_rate": 0.717948717948718,
+    "avg_session_duration": 314.44178844871794,
+    "conversions": 1.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Latvia",
+    "channel": "Direct",
+    "sessions": 76,
+    "engaged_sessions": 40,
+    "engagement_rate": 0.5263157894736842,
+    "avg_session_duration": 202.55317853947366,
+    "conversions": 1.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Poland",
+    "channel": "Paid Social",
+    "sessions": 76,
+    "engaged_sessions": 57,
+    "engagement_rate": 0.75,
+    "avg_session_duration": 100.20722731578948,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "United States",
+    "channel": "Paid Search",
+    "sessions": 69,
+    "engaged_sessions": 54,
+    "engagement_rate": 0.782608695652174,
+    "avg_session_duration": 82.97013263768116,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Mexico",
+    "channel": "Paid Social",
+    "sessions": 68,
+    "engaged_sessions": 49,
+    "engagement_rate": 0.7205882352941176,
+    "avg_session_duration": 88.06561339705883,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "France",
+    "channel": "Direct",
+    "sessions": 66,
+    "engaged_sessions": 43,
+    "engagement_rate": 0.6515151515151515,
+    "avg_session_duration": 110.67815596969696,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Ireland",
+    "channel": "Organic Search",
+    "sessions": 65,
+    "engaged_sessions": 48,
+    "engagement_rate": 0.7384615384615385,
+    "avg_session_duration": 93.85031146153845,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "France",
+    "channel": "Paid Social",
+    "sessions": 64,
+    "engaged_sessions": 43,
+    "engagement_rate": 0.671875,
+    "avg_session_duration": 145.34953134375,
+    "conversions": 1.0,
+    "revenue": 1384.34026
+  },
+  {
+    "country": "Japan",
+    "channel": "Direct",
+    "sessions": 62,
+    "engaged_sessions": 25,
+    "engagement_rate": 0.4032258064516129,
+    "avg_session_duration": 3.9313638709677416,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Germany",
+    "channel": "Organic Social",
+    "sessions": 61,
+    "engaged_sessions": 50,
+    "engagement_rate": 0.819672131147541,
+    "avg_session_duration": 635.8434785245901,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Pakistan",
+    "channel": "Direct",
+    "sessions": 59,
+    "engaged_sessions": 42,
+    "engagement_rate": 0.711864406779661,
+    "avg_session_duration": 125.74918094915253,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Latvia",
+    "channel": "Organic Social",
+    "sessions": 58,
+    "engaged_sessions": 39,
+    "engagement_rate": 0.6724137931034483,
+    "avg_session_duration": 112.13807158620689,
+    "conversions": 1.0,
+    "revenue": 5984.16902
+  },
+  {
+    "country": "T\u00fcrkiye",
+    "channel": "Organic Social",
+    "sessions": 58,
+    "engaged_sessions": 34,
+    "engagement_rate": 0.5862068965517241,
+    "avg_session_duration": 46.789446603448276,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Italy",
+    "channel": "Organic Social",
+    "sessions": 56,
+    "engaged_sessions": 40,
+    "engagement_rate": 0.7142857142857143,
+    "avg_session_duration": 91.77948455357144,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Austria",
+    "channel": "Unassigned",
+    "sessions": 55,
+    "engaged_sessions": 40,
+    "engagement_rate": 0.7272727272727273,
+    "avg_session_duration": 167.34126850909092,
+    "conversions": 1.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Latvia",
+    "channel": "Organic Search",
+    "sessions": 55,
+    "engaged_sessions": 52,
+    "engagement_rate": 0.9454545454545454,
+    "avg_session_duration": 429.5926259090909,
+    "conversions": 2.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "United Kingdom",
+    "channel": "Paid Search",
+    "sessions": 55,
+    "engaged_sessions": 47,
+    "engagement_rate": 0.8545454545454545,
+    "avg_session_duration": 256.3712031636364,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Argentina",
+    "channel": "Organic Search",
+    "sessions": 54,
+    "engaged_sessions": 43,
+    "engagement_rate": 0.7962962962962963,
+    "avg_session_duration": 136.38581364814814,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Colombia",
+    "channel": "Organic Search",
+    "sessions": 54,
+    "engaged_sessions": 34,
+    "engagement_rate": 0.6296296296296297,
+    "avg_session_duration": 155.00467192592592,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Hungary",
+    "channel": "Organic Social",
+    "sessions": 52,
+    "engaged_sessions": 28,
+    "engagement_rate": 0.5384615384615384,
+    "avg_session_duration": 68.8814453076923,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Ireland",
+    "channel": "Direct",
+    "sessions": 51,
+    "engaged_sessions": 16,
+    "engagement_rate": 0.3137254901960784,
+    "avg_session_duration": 21.45961617647059,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "T\u00fcrkiye",
+    "channel": "Direct",
+    "sessions": 51,
+    "engaged_sessions": 31,
+    "engagement_rate": 0.6078431372549019,
+    "avg_session_duration": 70.8072991372549,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Germany",
+    "channel": "Paid Social",
+    "sessions": 49,
+    "engaged_sessions": 28,
+    "engagement_rate": 0.5714285714285714,
+    "avg_session_duration": 182.49106955102042,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Norway",
+    "channel": "Organic Search",
+    "sessions": 49,
+    "engaged_sessions": 37,
+    "engagement_rate": 0.7551020408163265,
+    "avg_session_duration": 144.5516595714286,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Brazil",
+    "channel": "Organic Social",
+    "sessions": 48,
+    "engaged_sessions": 30,
+    "engagement_rate": 0.625,
+    "avg_session_duration": 25.996158625000003,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Hungary",
+    "channel": "Referral",
+    "sessions": 47,
+    "engaged_sessions": 42,
+    "engagement_rate": 0.8936170212765957,
+    "avg_session_duration": 384.9620652978723,
+    "conversions": 3.0,
+    "revenue": 2174.097691
+  },
+  {
+    "country": "Poland",
+    "channel": "Paid Search",
+    "sessions": 46,
+    "engaged_sessions": 42,
+    "engagement_rate": 0.9130434782608695,
+    "avg_session_duration": 153.89300130434782,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Portugal",
+    "channel": "Paid Social",
+    "sessions": 46,
+    "engaged_sessions": 32,
+    "engagement_rate": 0.6956521739130435,
+    "avg_session_duration": 127.5606527826087,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Serbia",
+    "channel": "Direct",
+    "sessions": 46,
+    "engaged_sessions": 36,
+    "engagement_rate": 0.782608695652174,
+    "avg_session_duration": 106.78304126086958,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Spain",
+    "channel": "Paid Social",
+    "sessions": 46,
+    "engaged_sessions": 36,
+    "engagement_rate": 0.782608695652174,
+    "avg_session_duration": 155.20394282608694,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "France",
+    "channel": "Paid Search",
+    "sessions": 45,
+    "engaged_sessions": 34,
+    "engagement_rate": 0.7555555555555555,
+    "avg_session_duration": 310.11990415555556,
+    "conversions": 3.0,
+    "revenue": 5267.923647
+  },
+  {
+    "country": "Italy",
+    "channel": "Unassigned",
+    "sessions": 45,
+    "engaged_sessions": 25,
+    "engagement_rate": 0.5555555555555556,
+    "avg_session_duration": 66.5996812,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Nicaragua",
+    "channel": "Paid Social",
+    "sessions": 44,
+    "engaged_sessions": 25,
+    "engagement_rate": 0.5681818181818182,
+    "avg_session_duration": 235.50979684090908,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Spain",
+    "channel": "Direct",
+    "sessions": 43,
+    "engaged_sessions": 24,
+    "engagement_rate": 0.5581395348837209,
+    "avg_session_duration": 98.10496427906976,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Mexico",
+    "channel": "Direct",
+    "sessions": 42,
+    "engaged_sessions": 28,
+    "engagement_rate": 0.6666666666666666,
+    "avg_session_duration": 56.97354211904762,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Austria",
+    "channel": "Referral",
+    "sessions": 41,
+    "engaged_sessions": 34,
+    "engagement_rate": 0.8292682926829268,
+    "avg_session_duration": 183.8407183902439,
+    "conversions": 4.0,
+    "revenue": 6536.121684
+  },
+  {
+    "country": "Hungary",
+    "channel": "Unassigned",
+    "sessions": 41,
+    "engaged_sessions": 31,
+    "engagement_rate": 0.7560975609756098,
+    "avg_session_duration": 148.33707085365853,
+    "conversions": 1.0,
+    "revenue": 1958.423192
+  },
+  {
+    "country": "Italy",
+    "channel": "Paid Search",
+    "sessions": 41,
+    "engaged_sessions": 31,
+    "engagement_rate": 0.7560975609756098,
+    "avg_session_duration": 99.77299314634146,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "(not set)",
+    "channel": "Unassigned",
+    "sessions": 40,
+    "engaged_sessions": 0,
+    "engagement_rate": 0.0,
+    "avg_session_duration": 0.43717145,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Brazil",
+    "channel": "Organic Search",
+    "sessions": 40,
+    "engaged_sessions": 31,
+    "engagement_rate": 0.775,
+    "avg_session_duration": 102.981351275,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Canada",
+    "channel": "Direct",
+    "sessions": 40,
+    "engaged_sessions": 24,
+    "engagement_rate": 0.6,
+    "avg_session_duration": 47.48614635,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Canada",
+    "channel": "Paid Social",
+    "sessions": 40,
+    "engaged_sessions": 31,
+    "engagement_rate": 0.775,
+    "avg_session_duration": 180.32760430000002,
+    "conversions": 1.0,
+    "revenue": 2025.399998
+  },
+  {
+    "country": "Latvia",
+    "channel": "Referral",
+    "sessions": 40,
+    "engaged_sessions": 34,
+    "engagement_rate": 0.85,
+    "avg_session_duration": 279.43507997499995,
+    "conversions": 2.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Spain",
+    "channel": "Organic Social",
+    "sessions": 39,
+    "engaged_sessions": 28,
+    "engagement_rate": 0.717948717948718,
+    "avg_session_duration": 93.47031661538462,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "T\u00fcrkiye",
+    "channel": "Organic Search",
+    "sessions": 39,
+    "engaged_sessions": 35,
+    "engagement_rate": 0.8974358974358975,
+    "avg_session_duration": 148.0148503076923,
+    "conversions": 1.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Romania",
+    "channel": "Unassigned",
+    "sessions": 38,
+    "engaged_sessions": 27,
+    "engagement_rate": 0.7105263157894737,
+    "avg_session_duration": 35.39055715789473,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Germany",
+    "channel": "Referral",
+    "sessions": 37,
+    "engaged_sessions": 24,
+    "engagement_rate": 0.6486486486486487,
+    "avg_session_duration": 268.3038363243243,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Montenegro",
+    "channel": "Organic Search",
+    "sessions": 36,
+    "engaged_sessions": 25,
+    "engagement_rate": 0.6944444444444444,
+    "avg_session_duration": 140.59470975,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Bulgaria",
+    "channel": "Direct",
+    "sessions": 35,
+    "engaged_sessions": 27,
+    "engagement_rate": 0.7714285714285715,
+    "avg_session_duration": 64.47216902857143,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Mexico",
+    "channel": "Paid Search",
+    "sessions": 35,
+    "engaged_sessions": 26,
+    "engagement_rate": 0.7428571428571429,
+    "avg_session_duration": 28.347952600000003,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Moldova",
+    "channel": "Organic Search",
+    "sessions": 35,
+    "engaged_sessions": 24,
+    "engagement_rate": 0.6857142857142857,
+    "avg_session_duration": 65.94536668571429,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Norway",
+    "channel": "Referral",
+    "sessions": 35,
+    "engaged_sessions": 24,
+    "engagement_rate": 0.6857142857142857,
+    "avg_session_duration": 99.4256414,
+    "conversions": 1.0,
+    "revenue": 2204.42
+  },
+  {
+    "country": "Pakistan",
+    "channel": "Organic Social",
+    "sessions": 35,
+    "engaged_sessions": 27,
+    "engagement_rate": 0.7714285714285715,
+    "avg_session_duration": 117.09148765714288,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Romania",
+    "channel": "Referral",
+    "sessions": 35,
+    "engaged_sessions": 21,
+    "engagement_rate": 0.6,
+    "avg_session_duration": 236.98808471428575,
+    "conversions": 2.0,
+    "revenue": 3423.617468
+  },
+  {
+    "country": "Russia",
+    "channel": "Direct",
+    "sessions": 35,
+    "engaged_sessions": 25,
+    "engagement_rate": 0.7142857142857143,
+    "avg_session_duration": 5.069940542857142,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Thailand",
+    "channel": "Organic Search",
+    "sessions": 35,
+    "engaged_sessions": 24,
+    "engagement_rate": 0.6857142857142857,
+    "avg_session_duration": 53.69079502857143,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Bosnia & Herzegovina",
+    "channel": "Direct",
+    "sessions": 32,
+    "engaged_sessions": 24,
+    "engagement_rate": 0.75,
+    "avg_session_duration": 39.130098624999995,
+    "conversions": 1.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Denmark",
+    "channel": "Organic Search",
+    "sessions": 32,
+    "engaged_sessions": 22,
+    "engagement_rate": 0.6875,
+    "avg_session_duration": 159.4240036875,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Netherlands",
+    "channel": "Paid Social",
+    "sessions": 32,
+    "engaged_sessions": 17,
+    "engagement_rate": 0.53125,
+    "avg_session_duration": 120.24187365625001,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Switzerland",
+    "channel": "Direct",
+    "sessions": 32,
+    "engaged_sessions": 18,
+    "engagement_rate": 0.5625,
+    "avg_session_duration": 61.01859453125,
+    "conversions": 1.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Brazil",
+    "channel": "Referral",
+    "sessions": 31,
+    "engaged_sessions": 22,
+    "engagement_rate": 0.7096774193548387,
+    "avg_session_duration": 17.76542906451613,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Colombia",
+    "channel": "Direct",
+    "sessions": 31,
+    "engaged_sessions": 18,
+    "engagement_rate": 0.5806451612903226,
+    "avg_session_duration": 24.833031516129033,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Iraq",
+    "channel": "Direct",
+    "sessions": 31,
+    "engaged_sessions": 17,
+    "engagement_rate": 0.5483870967741935,
+    "avg_session_duration": 3.2919547741935484,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Latvia",
+    "channel": "Unassigned",
+    "sessions": 31,
+    "engaged_sessions": 20,
+    "engagement_rate": 0.6451612903225806,
+    "avg_session_duration": 256.71012080645164,
+    "conversions": 1.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Bangladesh",
+    "channel": "Direct",
+    "sessions": 30,
+    "engaged_sessions": 18,
+    "engagement_rate": 0.6,
+    "avg_session_duration": 2.5740663,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Germany",
+    "channel": "Unassigned",
+    "sessions": 30,
+    "engaged_sessions": 19,
+    "engagement_rate": 0.6333333333333333,
+    "avg_session_duration": 126.13519146666665,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Romania",
+    "channel": "Organic Social",
+    "sessions": 30,
+    "engaged_sessions": 19,
+    "engagement_rate": 0.6333333333333333,
+    "avg_session_duration": 81.71680583333334,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Argentina",
+    "channel": "Direct",
+    "sessions": 29,
+    "engaged_sessions": 19,
+    "engagement_rate": 0.6551724137931034,
+    "avg_session_duration": 12.537699689655174,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Croatia",
+    "channel": "Direct",
+    "sessions": 28,
+    "engaged_sessions": 18,
+    "engagement_rate": 0.6428571428571429,
+    "avg_session_duration": 91.86438975,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Poland",
+    "channel": "Unassigned",
+    "sessions": 28,
+    "engaged_sessions": 20,
+    "engagement_rate": 0.7142857142857143,
+    "avg_session_duration": 132.34732925,
+    "conversions": 1.0,
+    "revenue": 1119.36151
+  },
+  {
+    "country": "Sweden",
+    "channel": "Organic Social",
+    "sessions": 28,
+    "engaged_sessions": 14,
+    "engagement_rate": 0.5,
+    "avg_session_duration": 12.634872321428572,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Ireland",
+    "channel": "Organic Social",
+    "sessions": 27,
+    "engaged_sessions": 12,
+    "engagement_rate": 0.4444444444444444,
+    "avg_session_duration": 24.655434703703705,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Chile",
+    "channel": "Organic Search",
+    "sessions": 26,
+    "engaged_sessions": 24,
+    "engagement_rate": 0.9230769230769231,
+    "avg_session_duration": 267.3492598846154,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Ecuador",
+    "channel": "Organic Social",
+    "sessions": 26,
+    "engaged_sessions": 17,
+    "engagement_rate": 0.6538461538461539,
+    "avg_session_duration": 303.6418691538462,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Poland",
+    "channel": "Organic Social",
+    "sessions": 26,
+    "engaged_sessions": 19,
+    "engagement_rate": 0.7307692307692307,
+    "avg_session_duration": 98.34166692307691,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Venezuela",
+    "channel": "Direct",
+    "sessions": 26,
+    "engaged_sessions": 15,
+    "engagement_rate": 0.5769230769230769,
+    "avg_session_duration": 11.542571153846154,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Mexico",
+    "channel": "Organic Social",
+    "sessions": 25,
+    "engaged_sessions": 19,
+    "engagement_rate": 0.76,
+    "avg_session_duration": 150.22999808,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "United Kingdom",
+    "channel": "Referral",
+    "sessions": 24,
+    "engaged_sessions": 16,
+    "engagement_rate": 0.6666666666666666,
+    "avg_session_duration": 49.22604066666667,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Australia",
+    "channel": "Direct",
+    "sessions": 23,
+    "engaged_sessions": 11,
+    "engagement_rate": 0.4782608695652174,
+    "avg_session_duration": 6.499928130434783,
+    "conversions": 1.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Japan",
+    "channel": "Organic Search",
+    "sessions": 23,
+    "engaged_sessions": 19,
+    "engagement_rate": 0.8260869565217391,
+    "avg_session_duration": 171.14098126086955,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Netherlands",
+    "channel": "Paid Search",
+    "sessions": 23,
+    "engaged_sessions": 22,
+    "engagement_rate": 0.9565217391304348,
+    "avg_session_duration": 301.3688013043478,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Peru",
+    "channel": "Organic Search",
+    "sessions": 23,
+    "engaged_sessions": 19,
+    "engagement_rate": 0.8260869565217391,
+    "avg_session_duration": 343.95716008695655,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Saudi Arabia",
+    "channel": "Direct",
+    "sessions": 23,
+    "engaged_sessions": 14,
+    "engagement_rate": 0.6086956521739131,
+    "avg_session_duration": 2.422893652173913,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Sweden",
+    "channel": "Organic Search",
+    "sessions": 23,
+    "engaged_sessions": 15,
+    "engagement_rate": 0.6521739130434783,
+    "avg_session_duration": 137.7594286521739,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "France",
+    "channel": "Organic Social",
+    "sessions": 22,
+    "engaged_sessions": 14,
+    "engagement_rate": 0.6363636363636364,
+    "avg_session_duration": 43.401466681818185,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Philippines",
+    "channel": "Direct",
+    "sessions": 22,
+    "engaged_sessions": 12,
+    "engagement_rate": 0.5454545454545454,
+    "avg_session_duration": 7.488805181818182,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Singapore",
+    "channel": "Organic Search",
+    "sessions": 22,
+    "engaged_sessions": 20,
+    "engagement_rate": 0.9090909090909091,
+    "avg_session_duration": 105.82469054545454,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "South Africa",
+    "channel": "Organic Search",
+    "sessions": 22,
+    "engaged_sessions": 19,
+    "engagement_rate": 0.8636363636363636,
+    "avg_session_duration": 150.86538659090908,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Algeria",
+    "channel": "Organic Search",
+    "sessions": 21,
+    "engaged_sessions": 17,
+    "engagement_rate": 0.8095238095238095,
+    "avg_session_duration": 82.46245895238096,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Brazil",
+    "channel": "Paid Social",
+    "sessions": 21,
+    "engaged_sessions": 8,
+    "engagement_rate": 0.38095238095238093,
+    "avg_session_duration": 12.423911761904762,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Spain",
+    "channel": "Paid Search",
+    "sessions": 21,
+    "engaged_sessions": 12,
+    "engagement_rate": 0.5714285714285714,
+    "avg_session_duration": 32.67653285714285,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Philippines",
+    "channel": "Organic Search",
+    "sessions": 20,
+    "engaged_sessions": 13,
+    "engagement_rate": 0.65,
+    "avg_session_duration": 136.02162765,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Portugal",
+    "channel": "Organic Search",
+    "sessions": 20,
+    "engaged_sessions": 18,
+    "engagement_rate": 0.9,
+    "avg_session_duration": 538.1032946,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Slovenia",
+    "channel": "Organic Search",
+    "sessions": 20,
+    "engaged_sessions": 15,
+    "engagement_rate": 0.75,
+    "avg_session_duration": 245.45222884999998,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Austria",
+    "channel": "Paid Other",
+    "sessions": 19,
+    "engaged_sessions": 4,
+    "engagement_rate": 0.21052631578947367,
+    "avg_session_duration": 237.89934889473687,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Egypt",
+    "channel": "Direct",
+    "sessions": 19,
+    "engaged_sessions": 13,
+    "engagement_rate": 0.6842105263157895,
+    "avg_session_duration": 94.60046021052632,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "El Salvador",
+    "channel": "Paid Social",
+    "sessions": 19,
+    "engaged_sessions": 11,
+    "engagement_rate": 0.5789473684210527,
+    "avg_session_duration": 83.90516794736841,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Portugal",
+    "channel": "Organic Social",
+    "sessions": 19,
+    "engaged_sessions": 13,
+    "engagement_rate": 0.6842105263157895,
+    "avg_session_duration": 80.36510805263157,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Vietnam",
+    "channel": "Unassigned",
+    "sessions": 19,
+    "engaged_sessions": 2,
+    "engagement_rate": 0.10526315789473684,
+    "avg_session_duration": 8.381160105263158,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Tunisia",
+    "channel": "Organic Search",
+    "sessions": 18,
+    "engaged_sessions": 14,
+    "engagement_rate": 0.7777777777777778,
+    "avg_session_duration": 27.187086166666667,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Ukraine",
+    "channel": "Organic Search",
+    "sessions": 18,
+    "engaged_sessions": 15,
+    "engagement_rate": 0.8333333333333334,
+    "avg_session_duration": 244.1651955,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "United Arab Emirates",
+    "channel": "Direct",
+    "sessions": 18,
+    "engaged_sessions": 5,
+    "engagement_rate": 0.2777777777777778,
+    "avg_session_duration": 5.478636111111111,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "United Arab Emirates",
+    "channel": "Organic Search",
+    "sessions": 18,
+    "engaged_sessions": 12,
+    "engagement_rate": 0.6666666666666666,
+    "avg_session_duration": 145.06673761111108,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Ecuador",
+    "channel": "Direct",
+    "sessions": 17,
+    "engaged_sessions": 14,
+    "engagement_rate": 0.8235294117647058,
+    "avg_session_duration": 4.395991705882353,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Indonesia",
+    "channel": "Organic Social",
+    "sessions": 17,
+    "engaged_sessions": 10,
+    "engagement_rate": 0.5882352941176471,
+    "avg_session_duration": 105.76323394117648,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "New Zealand",
+    "channel": "Organic Search",
+    "sessions": 17,
+    "engaged_sessions": 15,
+    "engagement_rate": 0.8823529411764706,
+    "avg_session_duration": 113.16627305882353,
+    "conversions": 1.0,
+    "revenue": 1553.81745
+  },
+  {
+    "country": "Poland",
+    "channel": "Referral",
+    "sessions": 17,
+    "engaged_sessions": 14,
+    "engagement_rate": 0.8235294117647058,
+    "avg_session_duration": 221.58244094117646,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "United States",
+    "channel": "Referral",
+    "sessions": 17,
+    "engaged_sessions": 12,
+    "engagement_rate": 0.7058823529411765,
+    "avg_session_duration": 72.49529852941177,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Belgium",
+    "channel": "Direct",
+    "sessions": 16,
+    "engaged_sessions": 6,
+    "engagement_rate": 0.375,
+    "avg_session_duration": 213.8091795625,
+    "conversions": 1.0,
+    "revenue": 1197.999993
+  },
+  {
+    "country": "India",
+    "channel": "Organic Social",
+    "sessions": 16,
+    "engaged_sessions": 14,
+    "engagement_rate": 0.875,
+    "avg_session_duration": 61.2229204375,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "North Macedonia",
+    "channel": "Organic Search",
+    "sessions": 16,
+    "engaged_sessions": 10,
+    "engagement_rate": 0.625,
+    "avg_session_duration": 56.408852,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Switzerland",
+    "channel": "Unassigned",
+    "sessions": 16,
+    "engaged_sessions": 11,
+    "engagement_rate": 0.6875,
+    "avg_session_duration": 6.610243625,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Bosnia & Herzegovina",
+    "channel": "Referral",
+    "sessions": 15,
+    "engaged_sessions": 14,
+    "engagement_rate": 0.9333333333333333,
+    "avg_session_duration": 51.457589066666664,
+    "conversions": 1.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Cameroon",
+    "channel": "Organic Search",
+    "sessions": 15,
+    "engaged_sessions": 11,
+    "engagement_rate": 0.7333333333333333,
+    "avg_session_duration": 41.87688813333333,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Canada",
+    "channel": "Paid Search",
+    "sessions": 15,
+    "engaged_sessions": 14,
+    "engagement_rate": 0.9333333333333333,
+    "avg_session_duration": 198.79733913333334,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "France",
+    "channel": "Unassigned",
+    "sessions": 15,
+    "engaged_sessions": 10,
+    "engagement_rate": 0.6666666666666666,
+    "avg_session_duration": 413.25996193333333,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Germany",
+    "channel": "Cross-network",
+    "sessions": 15,
+    "engaged_sessions": 14,
+    "engagement_rate": 0.9333333333333333,
+    "avg_session_duration": 346.7747676,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Greece",
+    "channel": "Organic Search",
+    "sessions": 15,
+    "engaged_sessions": 12,
+    "engagement_rate": 0.8,
+    "avg_session_duration": 101.77816000000001,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Indonesia",
+    "channel": "Unassigned",
+    "sessions": 15,
+    "engaged_sessions": 10,
+    "engagement_rate": 0.6666666666666666,
+    "avg_session_duration": 276.9327598,
+    "conversions": 2.0,
+    "revenue": 3783.00915
+  },
+  {
+    "country": "Malaysia",
+    "channel": "Organic Search",
+    "sessions": 15,
+    "engaged_sessions": 11,
+    "engagement_rate": 0.7333333333333333,
+    "avg_session_duration": 74.55289966666666,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Mali",
+    "channel": "Organic Search",
+    "sessions": 15,
+    "engaged_sessions": 12,
+    "engagement_rate": 0.8,
+    "avg_session_duration": 154.30211906666668,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Portugal",
+    "channel": "Direct",
+    "sessions": 15,
+    "engaged_sessions": 8,
+    "engagement_rate": 0.5333333333333333,
+    "avg_session_duration": 175.07124306666668,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Slovenia",
+    "channel": "Paid Search",
+    "sessions": 15,
+    "engaged_sessions": 7,
+    "engagement_rate": 0.4666666666666667,
+    "avg_session_duration": 25.744833266666664,
+    "conversions": 0.0,
+    "revenue": 0.0
+  },
+  {
+    "country": "Spain",
+    "channel": "Unassigned",
+    "sessions": 15,
+    "engaged_sessions": 12,
+    "engagement_rate": 0.8,
+    "avg_session_duration": 226.65381333333335,
+    "conversions": 0.0,
+    "revenue": 0.0
+  }
+]

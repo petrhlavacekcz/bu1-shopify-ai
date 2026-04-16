@@ -1,0 +1,802 @@
+[
+  {
+    "page": "/",
+    "country": "Czechia",
+    "sessions": 4354,
+    "conversions": 168.0,
+    "revenue": 267319.999998,
+    "bounce_rate": 0.17064768029398256
+  },
+  {
+    "page": "/collections/brankarske-rukavice/?dm_ad=389522134311&dm_cam=1033853180&dm_grp=80070611952&dm_kw=bu1&dm_net=adwords",
+    "country": "Czechia",
+    "sessions": 1727,
+    "conversions": 68.0,
+    "revenue": 61160.40002,
+    "bounce_rate": 0.15112912565141864
+  },
+  {
+    "page": "/?dm_cam=20592726182&dm_grp=&dm_ad=&dm_kw=&dm_net=adwords",
+    "country": "Czechia",
+    "sessions": 1647,
+    "conversions": 39.0,
+    "revenue": 46252.79997100001,
+    "bounce_rate": 0.12568306010928962
+  },
+  {
+    "page": "/collections/brankarske-rukavice",
+    "country": "Czechia",
+    "sessions": 1374,
+    "conversions": 27.0,
+    "revenue": 34301.800013,
+    "bounce_rate": 0.21324599708879186
+  },
+  {
+    "page": "/collections/brankarske-rukavice/?orderby=date",
+    "country": "Czechia",
+    "sessions": 1371,
+    "conversions": 57.0,
+    "revenue": 60637.80002100001,
+    "bounce_rate": 0.17578409919766594
+  },
+  {
+    "page": "/?dm_cam=1033853180&dm_grp=56359469968&dm_ad=347446658388&dm_kw=bu1&dm_net=adwords",
+    "country": "Czechia",
+    "sessions": 1153,
+    "conversions": 51.0,
+    "revenue": 70759.2,
+    "bounce_rate": 0.14397224631396358
+  },
+  {
+    "page": "(not set)",
+    "country": "Czechia",
+    "sessions": 1138,
+    "conversions": 1.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.9666080843585237
+  },
+  {
+    "page": "/sk?dm_cam=1378009412&dm_grp=53551359303&dm_ad=347518760768&dm_kw=bu1&dm_net=adwords",
+    "country": "Slovakia",
+    "sessions": 812,
+    "conversions": 39.0,
+    "revenue": 59287.953869,
+    "bounce_rate": 0.0874384236453202
+  },
+  {
+    "page": "/hu/collections/kapuszkesztyu",
+    "country": "Hungary",
+    "sessions": 615,
+    "conversions": 3.0,
+    "revenue": 4946.805619,
+    "bounce_rate": 0.183739837398374
+  },
+  {
+    "page": "/",
+    "country": "Slovakia",
+    "sessions": 529,
+    "conversions": 18.0,
+    "revenue": 22692.061598,
+    "bounce_rate": 0.1833648393194707
+  },
+  {
+    "page": "/sk/collections/brankarske-rukavice",
+    "country": "Slovakia",
+    "sessions": 501,
+    "conversions": 6.0,
+    "revenue": 8698.774085000001,
+    "bounce_rate": 0.3213572854291417
+  },
+  {
+    "page": "/collections/junior-modely",
+    "country": "Czechia",
+    "sessions": 467,
+    "conversions": 16.0,
+    "revenue": 14241.799972,
+    "bounce_rate": 0.15417558886509636
+  },
+  {
+    "page": "/sk",
+    "country": "Slovakia",
+    "sessions": 451,
+    "conversions": 8.0,
+    "revenue": 15827.614069,
+    "bounce_rate": 0.11751662971175167
+  },
+  {
+    "page": "/sk?dm_cam=1378009412&dm_grp=53551359303&dm_ad=347518760768&dm_kw=bu1%20rukavice&dm_net=adwords",
+    "country": "Slovakia",
+    "sessions": 371,
+    "conversions": 12.0,
+    "revenue": 15118.228628,
+    "bounce_rate": 0.07547169811320754
+  },
+  {
+    "page": "(not set)",
+    "country": "China",
+    "sessions": 365,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 1.0
+  },
+  {
+    "page": "/",
+    "country": "United States",
+    "sessions": 350,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.41714285714285715
+  },
+  {
+    "page": "/de/collections/torwarthandschuhe",
+    "country": "Austria",
+    "sessions": 319,
+    "conversions": 2.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.1786833855799373
+  },
+  {
+    "page": "/?dm_cam=1033853180&dm_grp=56359469968&dm_ad=347446658388&dm_kw=bu1%20rukavice&dm_net=adwords",
+    "country": "Czechia",
+    "sessions": 299,
+    "conversions": 15.0,
+    "revenue": 16523.000006,
+    "bounce_rate": 0.12709030100334448
+  },
+  {
+    "page": "/it/blogs/magazzino/allenamento-per-piccoli-calciatori-esercizi-divertenti-per-bambini-fino-a-7-anni",
+    "country": "Italy",
+    "sessions": 256,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.19140625
+  },
+  {
+    "page": "/collections/brankarske-rukavice/?dm_ad=389522134311&dm_cam=1033853180&dm_grp=80070611952&dm_kw=bu1%20rukavice&dm_net=adwords",
+    "country": "Czechia",
+    "sessions": 250,
+    "conversions": 19.0,
+    "revenue": 27599.599976999998,
+    "bounce_rate": 0.176
+  },
+  {
+    "page": "/bg/blogs/\u043c\u0430\u0433\u0430\u0437\u0438\u043d/\u0440\u0435\u043a\u043e\u0440\u0434\u043d\u0438-\u0441\u0442\u0440\u0435\u043b\u0446\u0438-\u0444\u0443\u0442\u0431\u043e\u043b\u043d\u0430-\u0438\u0441\u0442\u043e\u0440\u0438\u044f-\u043a\u043e\u0439-\u0441\u0435-\u043f\u043e\u0445\u0432\u0430\u043b\u0438-\u0441-\u043d\u0430\u0439-\u0432\u0438\u0441\u043e\u043a\u0438\u044f-\u0431\u0440\u043e\u0439-\u0432\u043a\u0430\u0440\u0430\u043d\u0438-\u0433\u043e\u043b\u043e\u0432\u0435",
+    "country": "Bulgaria",
+    "sessions": 246,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.21138211382113822
+  },
+  {
+    "page": "(not set)",
+    "country": "Slovakia",
+    "sessions": 242,
+    "conversions": 4.0,
+    "revenue": 6201.170190999999,
+    "bounce_rate": 0.9586776859504132
+  },
+  {
+    "page": "/ro/blogs/magazine/record-strelci-fotbal-historie-cine-se-pysni-cel-mai-mare-numar-de-goluri-marcate",
+    "country": "Romania",
+    "sessions": 228,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.22807017543859648
+  },
+  {
+    "page": "/pages/pece-o-rukavice",
+    "country": "Czechia",
+    "sessions": 227,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.2599118942731278
+  },
+  {
+    "page": "/products/bu1-flex",
+    "country": "Czechia",
+    "sessions": 216,
+    "conversions": 10.0,
+    "revenue": 14768.200016,
+    "bounce_rate": 0.18981481481481483
+  },
+  {
+    "page": "/web-pixels@df8d3400wef50681bp68ad6cf7m44c53f1a/custom/web-pixel-42467411@15/sandbox/modern/",
+    "country": "Czechia",
+    "sessions": 214,
+    "conversions": 21.0,
+    "revenue": 27063.600022000002,
+    "bounce_rate": 0.2102803738317757
+  },
+  {
+    "page": "/blogs/magazin/treninkova-cviceni-pro-fotbalove-brankare-zakladni-priprava-v-5-krocich",
+    "country": "Czechia",
+    "sessions": 212,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.1509433962264151
+  },
+  {
+    "page": "/sk/",
+    "country": "Slovakia",
+    "sessions": 212,
+    "conversions": 5.0,
+    "revenue": 7642.364689,
+    "bounce_rate": 0.09433962264150944
+  },
+  {
+    "page": "/blogs/magazin/trenink-pro-male-fotbalisty-zabavna-cviceni-pro-deti-do-7-let",
+    "country": "Czechia",
+    "sessions": 200,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.155
+  },
+  {
+    "page": "/blogs/magazin/prehled-nejlepsich-fotbalovych-treninkovych-cviceni-pro-prihravky-strelbu-a-kontrolu-mice",
+    "country": "Czechia",
+    "sessions": 195,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.08205128205128205
+  },
+  {
+    "page": "/sk?dm_cam=1378009412&dm_grp=53551359303&dm_ad=347518760768&dm_kw=%2Bbu1&dm_net=adwords",
+    "country": "Slovakia",
+    "sessions": 194,
+    "conversions": 6.0,
+    "revenue": 3281.778683,
+    "bounce_rate": 0.08762886597938144
+  },
+  {
+    "page": "/de/",
+    "country": "Austria",
+    "sessions": 184,
+    "conversions": 3.0,
+    "revenue": 1271.496211,
+    "bounce_rate": 0.07065217391304347
+  },
+  {
+    "page": "/",
+    "country": "China",
+    "sessions": 179,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.2849162011173184
+  },
+  {
+    "page": "/collections/kalhoty-a-trenyrky",
+    "country": "Czechia",
+    "sessions": 179,
+    "conversions": 1.0,
+    "revenue": 1090.000009,
+    "bounce_rate": 0.2569832402234637
+  },
+  {
+    "page": "/sk/collections/junior-modely",
+    "country": "Slovakia",
+    "sessions": 172,
+    "conversions": 8.0,
+    "revenue": 8340.916468,
+    "bounce_rate": 0.16279069767441862
+  },
+  {
+    "page": "/collections/dospele",
+    "country": "Czechia",
+    "sessions": 167,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.19760479041916168
+  },
+  {
+    "page": "/web-pixels@df8d3400wef50681bp68ad6cf7m44c53f1a/custom/web-pixel-42467411@15/sandbox/modern/collections/brankarske-rukavice/?dm_ad=389522134311&dm_cam=1033853180&dm_grp=80070611952&dm_kw=bu1&dm_net=adwords",
+    "country": "Czechia",
+    "sessions": 150,
+    "conversions": 10.0,
+    "revenue": 10654.999969,
+    "bounce_rate": 0.18
+  },
+  {
+    "page": "/",
+    "country": "United Kingdom",
+    "sessions": 146,
+    "conversions": 2.0,
+    "revenue": 5477.801542,
+    "bounce_rate": 0.273972602739726
+  },
+  {
+    "page": "/blogs/magazin/bezecka-cviceni-pro-fotbalisty-osvedcene-tipy-a-triky-bu1-sport",
+    "country": "Czechia",
+    "sessions": 135,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.2074074074074074
+  },
+  {
+    "page": "/products/bu1-light-hg-2-0-umela-trava",
+    "country": "Czechia",
+    "sessions": 131,
+    "conversions": 2.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.183206106870229
+  },
+  {
+    "page": "/blogs/magazin/rekordni-strelci-fotbalove-historie-kdo-se-pysni-nejvyssim-poctem-vstrelenych-golu",
+    "country": "Czechia",
+    "sessions": 128,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.1484375
+  },
+  {
+    "page": "/collections/obleceni",
+    "country": "Czechia",
+    "sessions": 126,
+    "conversions": 3.0,
+    "revenue": 3439.600004,
+    "bounce_rate": 0.16666666666666666
+  },
+  {
+    "page": "/ro/blogs/magazine/cele-mai-bune-academii-de-fotbal-5-locuri-unde-se-nasc-talente-milionare",
+    "country": "Romania",
+    "sessions": 126,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.2857142857142857
+  },
+  {
+    "page": "/products/bu1-chranice-elite-vlastni-design",
+    "country": "Czechia",
+    "sessions": 120,
+    "conversions": 1.0,
+    "revenue": 1049.0,
+    "bounce_rate": 0.6666666666666666
+  },
+  {
+    "page": "/collections/brankarske-rukavice",
+    "country": "Slovakia",
+    "sessions": 117,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.1282051282051282
+  },
+  {
+    "page": "/",
+    "country": "Austria",
+    "sessions": 116,
+    "conversions": 4.0,
+    "revenue": 3760.826131,
+    "bounce_rate": 0.15517241379310345
+  },
+  {
+    "page": "/products/bu1-sky",
+    "country": "Czechia",
+    "sessions": 114,
+    "conversions": 9.0,
+    "revenue": 13449.999996999999,
+    "bounce_rate": 0.17543859649122806
+  },
+  {
+    "page": "/collections/goalkeeper-gloves",
+    "country": "United Kingdom",
+    "sessions": 113,
+    "conversions": 2.0,
+    "revenue": 4206.718973,
+    "bounce_rate": 0.13274336283185842
+  },
+  {
+    "page": "/",
+    "country": "Germany",
+    "sessions": 102,
+    "conversions": 1.0,
+    "revenue": 2776.877586,
+    "bounce_rate": 0.43137254901960786
+  },
+  {
+    "page": "/ro/blogs/magazine/cum-functioneaza-scoutingul-in-fotbal-bu1-oricine-poate-juca-ca-un-campion",
+    "country": "Romania",
+    "sessions": 99,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.1919191919191919
+  },
+  {
+    "page": "/hu",
+    "country": "Hungary",
+    "sessions": 98,
+    "conversions": 1.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.07142857142857142
+  },
+  {
+    "page": "/products/bu1-heaven-nc",
+    "country": "Czechia",
+    "sessions": 98,
+    "conversions": 2.0,
+    "revenue": 3716.199999,
+    "bounce_rate": 0.1836734693877551
+  },
+  {
+    "page": "/web-pixels@df8d3400wef50681bp68ad6cf7m44c53f1a/custom/web-pixel-42467411@15/sandbox/modern/collections/brankarske-rukavice",
+    "country": "Czechia",
+    "sessions": 97,
+    "conversions": 7.0,
+    "revenue": 15272.199999999999,
+    "bounce_rate": 0.20618556701030927
+  },
+  {
+    "page": "/products/bu1-unlimited-nc",
+    "country": "Czechia",
+    "sessions": 96,
+    "conversions": 7.0,
+    "revenue": 10903.199973,
+    "bounce_rate": 0.19791666666666666
+  },
+  {
+    "page": "/products/junior-bu1-light-hg-2-0-umela-trava",
+    "country": "Czechia",
+    "sessions": 95,
+    "conversions": 1.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.25263157894736843
+  },
+  {
+    "page": "/web-pixels@3c1f2529w4065d210p03530cb8m151179d6/custom/web-pixel-42467411@15/sandbox/modern/",
+    "country": "Czechia",
+    "sessions": 95,
+    "conversions": 4.0,
+    "revenue": 5359.999998,
+    "bounce_rate": 0.22105263157894736
+  },
+  {
+    "page": "/web-pixels@df8d3400wef50681bp68ad6cf7m44c53f1a/custom/web-pixel-42467411@15/sandbox/modern/collections/brankarske-rukavice/?orderby=date",
+    "country": "Czechia",
+    "sessions": 93,
+    "conversions": 7.0,
+    "revenue": 8789.599995,
+    "bounce_rate": 0.17204301075268819
+  },
+  {
+    "page": "/it/blogs/magazzino/come-liberare-le-tue-scarpe-dal-cattivo-odore",
+    "country": "Italy",
+    "sessions": 91,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.3956043956043956
+  },
+  {
+    "page": "/fr/blogs/magazine-1/fotbalove-dokumenty-ktere-musite-videt-nejlepsi-serie-a-filmy-o-krasne-hre",
+    "country": "France",
+    "sessions": 89,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.24719101123595505
+  },
+  {
+    "page": "/products/bu1-light-black-nc-2-0",
+    "country": "Czechia",
+    "sessions": 89,
+    "conversions": 2.0,
+    "revenue": 3416.1999880000003,
+    "bounce_rate": 0.15730337078651685
+  },
+  {
+    "page": "/sk/blogs/casopis/trening-pre-malych-futbalistov-zabavne-cvicenia-pre-deti-do-7-rokov",
+    "country": "Slovakia",
+    "sessions": 87,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.26436781609195403
+  },
+  {
+    "page": "/collections/tasky-a-batohy",
+    "country": "Czechia",
+    "sessions": 85,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.2235294117647059
+  },
+  {
+    "page": "/hr/blogs/magazine/trening-za-male-futbalere-zabavne-vjezbe-za-djecu-do-7-godina",
+    "country": "Croatia",
+    "sessions": 85,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.2235294117647059
+  },
+  {
+    "page": "/products/junior-bu1-flex",
+    "country": "Czechia",
+    "sessions": 81,
+    "conversions": 2.0,
+    "revenue": 2516.0000179999997,
+    "bounce_rate": 0.2222222222222222
+  },
+  {
+    "page": "/blogs/magazine/football-and-coordination-why-it-is-important-and-how-to-improve-it",
+    "country": "United Kingdom",
+    "sessions": 79,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.20253164556962025
+  },
+  {
+    "page": "/pl/blogs/magazyn/cwiczenia-biegowe-dla-pilkarzy-sprawdzone-porady-i-sztuczki-bu1-sport",
+    "country": "Poland",
+    "sessions": 79,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.21518987341772153
+  },
+  {
+    "page": "/policies/refund-policy",
+    "country": "Czechia",
+    "sessions": 78,
+    "conversions": 1.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.23076923076923078
+  },
+  {
+    "page": "/web-pixels@2f2288a8w2fafd01bp23157a73mcb0adebf/custom/web-pixel-42467411@15/sandbox/modern/",
+    "country": "Czechia",
+    "sessions": 77,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.23376623376623376
+  },
+  {
+    "page": "/collections/ponozky-a-stulpny",
+    "country": "Czechia",
+    "sessions": 74,
+    "conversions": 2.0,
+    "revenue": 565.99999,
+    "bounce_rate": 0.14864864864864866
+  },
+  {
+    "page": "/ro/blogs/magazine/exercitii-de-antrenament-pentru-portarii-de-fotbal-pregatire-de-baza-in-5-pasi",
+    "country": "Romania",
+    "sessions": 74,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.14864864864864866
+  },
+  {
+    "page": "/",
+    "country": "Netherlands",
+    "sessions": 70,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.3142857142857143
+  },
+  {
+    "page": "/sk/blogs/casopis/treninkove-cvicenia-pre-futbalovych-brankarov-zakladna-priprava-v-5-krokoch",
+    "country": "Slovakia",
+    "sessions": 70,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.18571428571428572
+  },
+  {
+    "page": "/",
+    "country": "Latvia",
+    "sessions": 69,
+    "conversions": 3.0,
+    "revenue": 5984.16902,
+    "bounce_rate": 0.15942028985507245
+  },
+  {
+    "page": "/web-pixels@5bfe654aw9a31df99pb879ff13m3bd6cd49/custom/web-pixel-42467411@15/sandbox/modern/",
+    "country": "Czechia",
+    "sessions": 69,
+    "conversions": 1.0,
+    "revenue": 1558.000007,
+    "bounce_rate": 0.10144927536231885
+  },
+  {
+    "page": "/products/bu1-light-neon-yellow-hyla-2-0",
+    "country": "Czechia",
+    "sessions": 68,
+    "conversions": 2.0,
+    "revenue": 2257.000007,
+    "bounce_rate": 0.2647058823529412
+  },
+  {
+    "page": "/products/bu1-xx-nc",
+    "country": "Czechia",
+    "sessions": 66,
+    "conversions": 2.0,
+    "revenue": 3736.600009,
+    "bounce_rate": 0.16666666666666666
+  },
+  {
+    "page": "/collections/dresy",
+    "country": "Czechia",
+    "sessions": 65,
+    "conversions": 2.0,
+    "revenue": 3596.000008,
+    "bounce_rate": 0.27692307692307694
+  },
+  {
+    "page": "/collections/vyprodej",
+    "country": "Czechia",
+    "sessions": 65,
+    "conversions": 1.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.18461538461538463
+  },
+  {
+    "page": "/pages/vymena-zbozi-a-reklamace",
+    "country": "Czechia",
+    "sessions": 63,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.23809523809523808
+  },
+  {
+    "page": "/pages/pomoc-a-kontakty",
+    "country": "Czechia",
+    "sessions": 62,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.20967741935483872
+  },
+  {
+    "page": "/sk/products/bu1-sky",
+    "country": "Slovakia",
+    "sessions": 62,
+    "conversions": 1.0,
+    "revenue": 1231.690494,
+    "bounce_rate": 0.20967741935483872
+  },
+  {
+    "page": "/?dm_cam=1033853180&dm_grp=56359469968&dm_ad=347446658388&dm_kw=%2Bbu1&dm_net=adwords",
+    "country": "Czechia",
+    "sessions": 61,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.03278688524590164
+  },
+  {
+    "page": "/web-pixels@fcfee988w5aeb613cpc8e4bc33m6693e112/custom/web-pixel-42467411@15/sandbox/modern/",
+    "country": "Czechia",
+    "sessions": 61,
+    "conversions": 3.0,
+    "revenue": 499.999999,
+    "bounce_rate": 0.19672131147540983
+  },
+  {
+    "page": "/it/blogs/magazzino/come-riconoscere-un-buon-portiere-decisioni-sui-requisiti-fisici-e-psicologici-e-sullintelligenza-di-gioco",
+    "country": "Italy",
+    "sessions": 59,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.2542372881355932
+  },
+  {
+    "page": "/web-pixels@5bfe654aw9a31df99pb879ff13m3bd6cd49/custom/web-pixel-42467411@15/sandbox/modern/?dm_cam=1033853180&dm_grp=56359469968&dm_ad=347446658388&dm_kw=bu1&dm_net=adwords",
+    "country": "Czechia",
+    "sessions": 59,
+    "conversions": 3.0,
+    "revenue": 5772.999982,
+    "bounce_rate": 0.13559322033898305
+  },
+  {
+    "page": "/pl/collections/bramkarskie-rukawice",
+    "country": "Poland",
+    "sessions": 58,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.08620689655172414
+  },
+  {
+    "page": "/sk/blogs/casopis/bezecke-cvicenia-pre-futbalistov-osvedcene-tipy-a-triky",
+    "country": "Slovakia",
+    "sessions": 58,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.20689655172413793
+  },
+  {
+    "page": "/it/blogs/magazzino/storia-dei-galleggianti-del-calcio-come-si-sono-evoluti-gli-accessori-e-l-equipaggiamento-del-calcio",
+    "country": "Italy",
+    "sessions": 57,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.2631578947368421
+  },
+  {
+    "page": "/products/rukavice-bu1-na-prani",
+    "country": "Czechia",
+    "sessions": 57,
+    "conversions": 3.0,
+    "revenue": 7255.399993,
+    "bounce_rate": 0.24561403508771928
+  },
+  {
+    "page": "/ro/blogs/magazine/antrenament-pentru-mici-fotbalisti-exercitii-distractive-pentru-copii-pana-la-7-ani",
+    "country": "Romania",
+    "sessions": 57,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.19298245614035087
+  },
+  {
+    "page": "/sk?dm_cam=1378009412&dm_grp=53551359303&dm_ad=347518760768&dm_kw=brank%C3%A1rske%20rukavice%20bu1&dm_net=adwords",
+    "country": "Slovakia",
+    "sessions": 57,
+    "conversions": 1.0,
+    "revenue": 1599.2,
+    "bounce_rate": 0.10526315789473684
+  },
+  {
+    "page": "/web-pixels@cfa8229ew36b6053dp1e134caame9d83f21/custom/web-pixel-42467411@15/sandbox/modern/?dm_cam=1033853180&dm_grp=56359469968&dm_ad=347446658388&dm_kw=bu1&dm_net=adwords",
+    "country": "Czechia",
+    "sessions": 57,
+    "conversions": 1.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.14035087719298245
+  },
+  {
+    "page": "/",
+    "country": "Pakistan",
+    "sessions": 56,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.17857142857142858
+  },
+  {
+    "page": "/web-pixels@cfa8229ew36b6053dp1e134caame9d83f21/custom/web-pixel-42467411@15/sandbox/modern/",
+    "country": "Czechia",
+    "sessions": 56,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.30357142857142855
+  },
+  {
+    "page": "/web-pixels@df8d3400wef50681bp68ad6cf7m44c53f1a/custom/web-pixel-42467411@15/sandbox/modern/?dm_cam=1033853180&dm_grp=56359469968&dm_ad=347446658388&dm_kw=bu1&dm_net=adwords",
+    "country": "Czechia",
+    "sessions": 56,
+    "conversions": 6.0,
+    "revenue": 9333.399984,
+    "bounce_rate": 0.10714285714285714
+  },
+  {
+    "page": "/it/blogs/magazzino/esercizi-di-corsa-per-calciatori-consigli-e-trucchi-osservati-bu1-sport",
+    "country": "Italy",
+    "sessions": 55,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.18181818181818182
+  },
+  {
+    "page": "/products/bu1-flex?variant=42943755845715",
+    "country": "Czechia",
+    "sessions": 55,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.07272727272727272
+  },
+  {
+    "page": "/products/bu1-one-blue-hyla",
+    "country": "Czechia",
+    "sessions": 55,
+    "conversions": 3.0,
+    "revenue": 3575.399987,
+    "bounce_rate": 0.14545454545454545
+  },
+  {
+    "page": "/sk/blogs/casopis/rekordni-strelci-fotbalovej-historie-kto-sa-pysi-nejvyssim-poctom-vstrelenych-golov",
+    "country": "Slovakia",
+    "sessions": 55,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.2
+  },
+  {
+    "page": "/products/bu1-gator",
+    "country": "Czechia",
+    "sessions": 54,
+    "conversions": 0.0,
+    "revenue": 0.0,
+    "bounce_rate": 0.25925925925925924
+  }
+]

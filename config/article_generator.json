@@ -1,0 +1,478 @@
+{
+  "brand": {
+    "name": "BU1",
+    "company": "BU1 sport s.r.o.",
+    "tagline": "Happy to help you play",
+    "specialization": "Brankářské rukavice a fotbalové vybavení",
+    "products": [
+      "Brankářské rukavice (Triangle, Gator, Light, Classic, XX, Heaven, One, Flex, Sky, Unlimited, All Black, Neo, Signal, Air, Champ, Hyla)",
+      "Fotbalové ponožky (Tube Socks, Anti-slip socks, Stockings, Sports Socks)",
+      "Brankářské oblečení s vyztužením (vyztužené legíny, trenýrky, 3/4 kalhoty, neoprenové legíny)",
+      "Dresy (Jersey 20, Jersey 22, kompresní trička)",
+      "Teplákovky, mikiny, bundy, vesty",
+      "Chrániče (Classic, Elite, Elite Custom)",
+      "Doplňky (čepice, tašky, batohy, míče, šampon na rukavice, nákrčník, reflexní míč)"
+    ],
+    "glove_models": {
+      "premium": ["Triangle", "Gator", "XX", "Heaven"],
+      "mid_range": ["Classic", "One", "Light", "Flex", "Sky", "Unlimited"],
+      "special": ["All Black", "Neo", "Signal", "Air", "Champ", "Hyla"],
+      "cuts": ["NC (Negative Cut)", "RF (Roll Finger)", "Hyla"],
+      "grips": ["Giga Grip", "Contact Grip", "T1 Grip", "T2 Grip", "HG Grip (umělá tráva)", "Foam HG Grip"],
+      "surfaces": {
+        "FG": "přírodní tráva (Firm Ground)",
+        "AG": "umělá tráva (Artificial Grass)",
+        "HG": "hala / hard ground",
+        "TF": "turf"
+      }
+    }
+  },
+  "brand_design": {
+    "source": "https://petrhlavacekcz.github.io/bu1-brand-design/",
+    "colors": {
+      "primary": {
+        "hot_rose": { "hex": "#D2147C", "pantone": "225 C", "cmyk": "C0 M90 Y12 K5", "role": "CTA, akce, hover, aktivní stav" },
+        "onyx": { "hex": "#141414", "pantone": "Black 6 C", "cmyk": "C0 M0 Y0 K91", "role": "Text, základ, tmavé pozadí" },
+        "white": { "hex": "#FFFFFF", "role": "Pozadí, prostor, inverzní text" }
+      },
+      "neutrals": {
+        "neutral_800": { "hex": "#282828", "purpose": "Strong text on light backgrounds" },
+        "neutral_700": { "hex": "#575757", "purpose": "Secondary text, icons" },
+        "neutral_600": { "hex": "#858585", "purpose": "Placeholders, disabled states" },
+        "neutral_300": { "hex": "#E2E2E2", "purpose": "Borders, dividers" },
+        "neutral_200": { "hex": "#F1F1F1", "purpose": "Subtle backgrounds, hover states" },
+        "neutral_100": { "hex": "#F8F8F8", "purpose": "Page background" }
+      },
+      "hot_rose_shades": {
+        "shade_20": "#A81063",
+        "shade_40": "#7E0D4A",
+        "shade_60": "#540932",
+        "shade_80": "#2A0419"
+      },
+      "semantic": {
+        "error": { "hex": "#C0392B", "bg": "#FDECEA" },
+        "success": { "hex": "#1E7E34", "bg": "#E8F5E9" },
+        "warning": { "hex": "#B7590A", "bg": "#FFF3E0" },
+        "info": { "hex": "#0369A1", "bg": "#E0F2FE" }
+      },
+      "fluorescent_product_only": {
+        "safety_yellow": "#FFE600",
+        "neon_orange": "#FF6B00",
+        "hot_pink": "#FF3399",
+        "neon_green": "#00FF88",
+        "acid_blue": "#00CFFF",
+        "electric_purple": "#CC00FF"
+      },
+      "restrictions": [
+        "Žádné gradienty",
+        "Fluorescenční barvy POUZE pro produktové varianty, nikdy pro UI",
+        "Sémantické barvy nikdy nemíchat s brand paletou",
+        "Pink na černém pozadí pouze pro text 18pt+"
+      ]
+    },
+    "typography": {
+      "headline_font": {
+        "family": "Oswald",
+        "source": "Google Fonts",
+        "weights": [400, 600, 700],
+        "case": "UPPERCASE",
+        "usage": "Headlines, CTA, display text, campaign pricing"
+      },
+      "body_font": {
+        "family": "Nunito Sans",
+        "source": "Google Fonts",
+        "weights": [400, 600, 700, 800],
+        "case": "Sentence case",
+        "usage": "Body text, UI, descriptions, prices, badges"
+      },
+      "scale": {
+        "display_sm": { "font": "Oswald", "size": "40px/2.5rem", "weight": 700, "line_height": 1.0 },
+        "heading_lg": { "font": "Oswald", "size": "32px/2rem", "weight": 700, "line_height": 1.05 },
+        "heading_md": { "font": "Oswald", "size": "24px/1.5rem", "weight": 700, "line_height": 1.1 },
+        "title_lg": { "font": "Oswald", "size": "20px/1.25rem", "weight": 700, "line_height": 1.2 },
+        "price": { "font": "Nunito Sans", "size": "22px/1.375rem", "weight": 800, "line_height": 1.1 },
+        "body": { "font": "Nunito Sans", "size": "16px/1rem", "weight": 600, "line_height": 1.5 },
+        "label": { "font": "Nunito Sans", "size": "14px/0.875rem", "weight": 700, "line_height": 1.2, "letter_spacing": "0.04em" }
+      }
+    }
+  },
+  "tone_of_voice": {
+    "personality": "Přátelský a profesionální tón. Krátké věty. Jasná pointa.",
+    "address": "Vždy vykání (vy, vám, vaše). Nikdy tykání.",
+    "sentence_rules": [
+      "Maximálně 15-20 slov na větu",
+      "Jeden hlavní nápad na odstavec",
+      "Začněte nejdůležitější informací",
+      "Konkrétní slovesa a reálné benefity místo vágních tvrzení",
+      "Umožněte rychlé skenování textu"
+    ],
+    "cta_rules": [
+      "Maximálně 2-4 slova",
+      "Jasně uvést produkt/akci",
+      "Jeden CTA na výstup",
+      "Při poradenství být specifický a uklidňující"
+    ],
+    "approved_patterns": [
+      "Pevný grip i v dešti",
+      "Cena je vidět hned",
+      "Novinka je venku. Mrkněte na detaily."
+    ],
+    "forbidden_patterns": [
+      "revoluční", "prémiový", "unikátní",
+      "velkolepé sliby",
+      "generický luxusní jazyk",
+      "vymyšlené tvrzení, slevy nebo nepodložená fakta",
+      "vymyšlené persony nebo psychologické profily",
+      "umělé sociální důkazy nebo recenze",
+      "více CTA v jedné zprávě"
+    ],
+    "emoji_usage": {
+      "social_media": "Volně, 1-3 emoji strategicky",
+      "web_guidelines_b2b": "Velmi střídmě",
+      "rule": "Funkčně vhodné, ne dekorativní"
+    }
+  },
+  "ai_prompting_rules": {
+    "pre_prompt_sources": [
+      "Brand tokens (barvy, typografie)",
+      "Tone of Voice dokumentace",
+      "Brand Language guidelines",
+      "Communication Channels specifikace"
+    ],
+    "mandatory_inputs": [
+      "Účel a požadovaný výstup",
+      "Definice cílové skupiny (hráč, rodič, trenér, klub, partner)",
+      "Trh a jazyk",
+      "Distribuční kanál (e-shop, Instagram, email, reklama, blog)",
+      "Fakta o produktu, benefity, materiály",
+      "Formát a délka výstupu"
+    ],
+    "guardrails": [
+      "Krátké věty — max 15-20 slov",
+      "Konkrétní jazyk — žádná vágnost",
+      "Profesionální ale přístupný tón",
+      "Vykání (vy)",
+      "Žádná marketingová hyperbola",
+      "Žádná vymyšlená tvrzení",
+      "Informace/benefit před dekorací",
+      "Produkt a akce mají prioritu před atmosférou"
+    ],
+    "default_language": "cs-CZ",
+    "default_address": "formal vy"
+  },
+  "communication_channels": {
+    "facebook": {
+      "bu1_cz_sk": { "language": "cs", "links_to": "bu1.cz (CZ) nebo bu1.cz/sk (SK)" },
+      "bu1_sport": { "language": "en", "note": "Globální příspěvky, mezinárodní obsah, vlajky pro ne-EN jazyky" }
+    },
+    "instagram": {
+      "bu1_gloves": "Brankáři: trénink, reference, brankářský obsah",
+      "bu1_sport": "Širší fotbal: merch, blog, reference",
+      "goalkeeping_forever": "EN: trénink a reference"
+    },
+    "tiktok": {
+      "bu1_cz": "Brankářský trénink, informace, cs/en"
+    },
+    "youtube": "Trénink, recenze, launches (cs/en/další jazyky)",
+    "pinterest": "Merch a reference (en)",
+    "linkedin": "Firemní profil: novinky, hiring, partnerství, B2B",
+    "x_twitter": "NEAKTIVNÍ — neodkazovat"
+  },
+  "article_defaults": {
+    "blog_id": "gid://shopify/Blog/82163826771",
+    "blog_handle": "magazin",
+    "blog_title": "Magazín",
+    "author": "BU1 Sport",
+    "is_published": false,
+    "min_words": 1200
+  },
+  "content_brief_rules": {
+    "required_fields": [
+      "working_title",
+      "primary_keyword",
+      "secondary_keywords",
+      "target_audience",
+      "search_intent",
+      "topic_cluster",
+      "business_goal",
+      "allowed_internal_links",
+      "evidence_sources"
+    ],
+    "template_path": "docs/content-brief-template.md",
+    "topic_cluster_map_path": "docs/topic-cluster-map.md"
+  },
+  "seo_rules": {
+    "meta_title_max_length": 60,
+    "meta_description_length": { "min": 150, "max": 160 },
+    "required_in_h1": "primární klíčové slovo",
+    "h2_sections": { "min": 4, "max": 6 },
+    "internal_links_max": 3,
+    "structure": "AIDA (Attention, Interest, Desire, Action)",
+    "require_search_intent": true,
+    "require_primary_keyword_before_writing": true
+  },
+  "topic_clusters": {
+    "goalkeeper_fundamentals": {
+      "priority": 1,
+      "audiences": ["děti", "dorost", "amatérští brankáři", "rodiče"],
+      "example_topics": ["rozcvička", "postřeh", "postavení", "pádová technika", "jistota v rukou"]
+    },
+    "match_situations": {
+      "priority": 2,
+      "audiences": ["dorost", "pokročilí brankáři", "trenéři"],
+      "example_topics": ["penalty", "1 na 1", "centry", "dorážky", "střely po zemi"]
+    },
+    "goalkeeper_distribution": {
+      "priority": 3,
+      "audiences": ["dorost", "trenéři", "ambiciózní brankáři"],
+      "example_topics": ["rozehrávka", "hra nohama", "komunikace s obranou", "čtení pressingu"]
+    },
+    "glove_education": {
+      "priority": 4,
+      "audiences": ["rodiče", "děti", "dorost", "první kupující"],
+      "example_topics": ["velikost rukavic", "péče o rukavice", "první rukavice", "trénink vs zápas"]
+    },
+    "youth_goalkeeper_development": {
+      "priority": 5,
+      "audiences": ["rodiče", "trenéři", "děti", "dorost"],
+      "example_topics": ["tréninkový plán", "nejčastější chyby", "mentální odolnost", "trénink doma"]
+    }
+  },
+  "content_rules": {
+    "factual_accuracy": [
+      "Používat POUZE reálné, ověřitelné zdroje (FIFA, UEFA, vědecké studie)",
+      "Uvádět konkrétní statistiky, data a čísla s uvedením zdrojů",
+      "Zmiňovat konkrétní jména hráčů, trenérů, klubů",
+      "Každé tvrzení musí být podložitelné fakty",
+      "Žádná vymyšlená tvrzení nebo nepodložená fakta"
+    ],
+    "writing_style": [
+      "Krátké věty — max 15-20 slov",
+      "Jeden hlavní nápad na odstavec",
+      "Konkrétní slovesa a reálné benefity",
+      "Začínat nejdůležitější informací",
+      "Informace/benefit před dekorací"
+    ],
+    "forbidden_patterns": [
+      "mnoho expertů tvrdí → podle studie UEFA z roku ...",
+      "je důležité → konkrétní důvody PROČ",
+      "obecné fráze bez dat",
+      "revoluční, prémiový, unikátní",
+      "vymyšlené persony nebo citace"
+    ],
+    "editorial_avoid_topics": [
+      "široké fotbalové kulturní články bez vazby na brankáře nebo BU1 expertízu",
+      "další transferové souhrny bez jasného obchodního cíle",
+      "obecné fotbalové dějiny bez vazby na hledaný záměr nebo produktovou relevanci"
+    ],
+    "html_tags_allowed": ["h1", "h2", "h3", "p", "ul", "ol", "li", "a", "strong", "em", "table", "thead", "tbody", "tr", "th", "td"],
+    "link_format": "<a href=\"URL\" target=\"_blank\">text odkazu</a>"
+  },
+  "sitemaps": {
+    "bu1sport_com": "https://bu1sport.com/sitemap.xml",
+    "bu1_cz": "https://bu1.cz/sitemap.xml"
+  },
+  "internal_links": {
+    "bu1sport_com": {
+      "collections": {
+        "goalkeeper_gloves": "https://bu1sport.com/collections/goalkeeper-gloves",
+        "all_products": "https://bu1sport.com/collections/all-products",
+        "clothing": "https://bu1sport.com/collections/clothing",
+        "jerseys": "https://bu1sport.com/collections/jerseys",
+        "socks_and_stockings": "https://bu1sport.com/collections/socks-and-stockings",
+        "pants_and_shorts": "https://bu1sport.com/collections/pants-and-shorts",
+        "hoodies": "https://bu1sport.com/collections/hoodies",
+        "t_shirts": "https://bu1sport.com/collections/t-shirts",
+        "jackets_vests": "https://bu1sport.com/collections/jackets-vests",
+        "shinguards": "https://bu1sport.com/collections/shinguards",
+        "caps": "https://bu1sport.com/collections/caps",
+        "balls": "https://bu1sport.com/collections/balls",
+        "bags_and_backpacks": "https://bu1sport.com/collections/bags-and-backpacks",
+        "goalkeeper_gloves_care": "https://bu1sport.com/collections/goalkeeper-gloves-care",
+        "gear": "https://bu1sport.com/collections/gear",
+        "sale": "https://bu1sport.com/collections/sale",
+        "gift_vouchers": "https://bu1sport.com/collections/gift-vouchers",
+        "junior_models": "https://bu1sport.com/collections/junior-models",
+        "adults": "https://bu1sport.com/collections/adults",
+        "girls": "https://bu1sport.com/collections/girls",
+        "negative_cut": "https://bu1sport.com/collections/negative-cut-nc",
+        "roll_finger": "https://bu1sport.com/collections/roll-finger-rf",
+        "grip": "https://bu1sport.com/collections/grip",
+        "cut": "https://bu1sport.com/collections/cut"
+      },
+      "glove_models": {
+        "gator": "https://bu1sport.com/collections/gator",
+        "triangle": "https://bu1sport.com/products/bu1-triangle-nc",
+        "classic": "https://bu1sport.com/collections/classic",
+        "light": "https://bu1sport.com/collections/light",
+        "xx": "https://bu1sport.com/collections/xx",
+        "heaven": "https://bu1sport.com/collections/heaven",
+        "one": "https://bu1sport.com/collections/one",
+        "flex": "https://bu1sport.com/collections/model-flex",
+        "all_black": "https://bu1sport.com/products/bu1-all-black-nc",
+        "unlimited": "https://bu1sport.com/products/bu1-unlimited-nc"
+      },
+      "pages": {
+        "our_story": "https://bu1sport.com/pages/our-story",
+        "our_goalkeepers": "https://bu1sport.com/pages/our-goalkeepers",
+        "help_and_contacts": "https://bu1sport.com/pages/help-and-contacts",
+        "gloves_care": "https://bu1sport.com/pages/goalkeeper-gloves-care",
+        "how_to_choose_gloves": "https://bu1sport.com/pages/advice-how-to-properly-choose-goalkeeper-gloves",
+        "custom_gloves": "https://bu1sport.com/pages/custom-gloves",
+        "custom_clothing": "https://bu1sport.com/pages/custom-clothing",
+        "stores": "https://bu1sport.com/pages/stores",
+        "faq": "https://bu1sport.com/pages/faq-frequently-asked-questions",
+        "size_guide": "https://bu1sport.com/pages/guide-sizes-and-measurements",
+        "product_care": "https://bu1sport.com/pages/care-for-products-bu1",
+        "exchange_complaints": "https://bu1sport.com/pages/exchange-goods-and-complaints",
+        "review": "https://bu1sport.com/pages/review"
+      },
+      "blogs": {
+        "magazine": "https://bu1sport.com/blogs/magazine",
+        "our_goalkeepers": "https://bu1sport.com/blogs/our-goalkeepers"
+      },
+      "featured_goalkeepers": {
+        "radek_vitek": "https://bu1sport.com/blogs/our-goalkeepers/radek-vitek",
+        "vaclav_hladky": "https://bu1sport.com/blogs/our-goalkeepers/vaclav-hladky"
+      }
+    },
+    "bu1_cz": {
+      "collections": {
+        "brankarske_rukavice": "https://bu1.cz/collections/brankarske-rukavice",
+        "vsechny_produkty": "https://bu1.cz/collections/vsechny-produkty",
+        "obleceni": "https://bu1.cz/collections/obleceni",
+        "dresy": "https://bu1.cz/collections/dresy",
+        "ponozky_a_stulpny": "https://bu1.cz/collections/ponozky-a-stulpny",
+        "kalhoty_a_trenyrky": "https://bu1.cz/collections/kalhoty-a-trenyrky",
+        "mikiny": "https://bu1.cz/collections/mikiny",
+        "tricka": "https://bu1.cz/collections/tricka",
+        "bundy_a_vesty": "https://bu1.cz/collections/bundy-a-vesty",
+        "chranice": "https://bu1.cz/collections/chranice",
+        "cepice": "https://bu1.cz/collections/cepice",
+        "mice": "https://bu1.cz/collections/mice",
+        "tasky_a_batohy": "https://bu1.cz/collections/tasky-a-batohy",
+        "pece_o_rukavice": "https://bu1.cz/collections/pece-o-rukavice",
+        "vystroj": "https://bu1.cz/collections/vystroj",
+        "vyprodej": "https://bu1.cz/collections/vyprodej",
+        "darkove_poukazy": "https://bu1.cz/collections/darkove-poukazy",
+        "junior_modely": "https://bu1.cz/collections/junior-modely",
+        "dospele": "https://bu1.cz/collections/dospele",
+        "holky": "https://bu1.cz/collections/holky"
+      },
+      "pages": {
+        "jak_spravne_vybrat_brankarske_rukavice": "https://bu1.cz/pages/poradna-jak-spravne-vybrat-brankarske-rukavice",
+        "pece_o_rukavice": "https://bu1.cz/pages/pece-o-rukavice"
+      },
+      "blogs": {
+        "magazin": "https://bu1.cz/blogs/magazin",
+        "nasi_brankari": "https://bu1.cz/blogs/nasi-brankari"
+      }
+    }
+  },
+  "priority_internal_links": {
+    "goalkeeper_education": {
+      "description": "Priority evergreen pages for goalkeeper advice. Link when the article discusses glove choice, glove care, beginner guidance, or training decisions where equipment and maintenance are relevant.",
+      "bu1_cz": {
+        "how_to_choose_goalkeeper_gloves": "https://bu1.cz/pages/poradna-jak-spravne-vybrat-brankarske-rukavice",
+        "goalkeeper_glove_care": "https://bu1.cz/pages/pece-o-rukavice"
+      },
+      "bu1sport_com": {
+        "how_to_choose_goalkeeper_gloves": "https://bu1sport.com/pages/advice-how-to-properly-choose-goalkeeper-gloves",
+        "goalkeeper_glove_care": "https://bu1sport.com/pages/goalkeeper-gloves-care"
+      }
+    }
+  },
+  "evergreen_pages": {
+    "how_to_choose_gloves": {
+      "description": "Jak správně vybrat brankářské rukavice",
+      "type": "pages",
+      "priority": "high",
+      "handles": {
+        "cs": "poradna-jak-spravne-vybrat-brankarske-rukavice",
+        "sk": "poradna-ako-spravne-vybrat-brankarske-rukavice",
+        "en": "advice-how-to-properly-choose-goalkeeper-gloves",
+        "de": "beratung-wie-man-die-torwarthandschuhe-richtig-auswahlt",
+        "pl": "poradnia-jak-poprawnie-wybrac-rekawice-bramkarskie",
+        "fr": "conseils-comment-bien-choisir-des-gants-de-gardien",
+        "es": "consejo-como-elegir-correctamente-los-guantes-de-portero",
+        "it": "consigli-per-scegliere-correttamente-i-guanti-da-portiere",
+        "hu": "tanacsado-hogyan-kell-jol-kivalasztani-a-kapuskesztyut",
+        "ro": "sfaturi-cum-sa-alegi-corect-manusi-de-portar",
+        "bg": "\u0441\u044a\u0432\u0435\u0442\u0438-\u043a\u0430\u043a-\u043f\u0440\u0430\u0432\u0438\u043b\u043d\u043e-\u0434\u0430-\u0438\u0437\u0431\u0435\u0440\u0435\u043c-\u0432\u0440\u0430\u0442\u0430\u0440\u0441\u043a\u0438-\u0440\u044a\u043a\u0430\u0432\u0438\u0446\u0438",
+        "hr": "savjetnik-kako-ispravno-odabrati-golmanske-rukavice"
+      }
+    },
+    "glove_care": {
+      "description": "Péče o brankářské rukavice",
+      "type": "pages",
+      "priority": "high",
+      "handles": {
+        "cs": "pece-o-rukavice",
+        "sk": "starostlivost-o-rukavice",
+        "en": "goalkeeper-gloves-care",
+        "de": "handschuhpflege",
+        "pl": "opieka-o-rekawice",
+        "fr": "soins-des-gants",
+        "es": "cuidado-de-guantes-de-portero",
+        "it": "cura-dei-guanti",
+        "hu": "kesztyus-gondozas",
+        "ro": "ingrijirea-manusilor-de-portar",
+        "bg": "\u0433\u0440\u0438\u0436\u0430-\u0437\u0430-\u0432\u0440\u0430\u0442\u0430\u0440\u0441\u043a\u0438-\u0440\u044a\u043a\u0430\u0432\u0438\u0446\u0438",
+        "hr": "njega-o-rukavicama"
+      }
+    },
+    "custom_gloves": {
+      "description": "Rukavice na zakázku (jednotlivci, týmy, akademie)",
+      "type": "pages",
+      "priority": "medium",
+      "handles": {
+        "cs": "rukavice-na-zakazku",
+        "sk": "rukavice-na-zakazku",
+        "en": "custom-gloves",
+        "de": "handschuhe-auf-bestellung",
+        "pl": "rekawice-na-zamowienie",
+        "fr": "gants-sur-mesure",
+        "es": "guantes-a-medida",
+        "it": "guanti-su-misura",
+        "hu": "egyedi-kesztyu",
+        "ro": "manusi-pe-comanda",
+        "bg": "\u0440\u044a\u043a\u0430\u0432\u0438\u0446\u0438-\u043f\u043e-\u043f\u043e\u0440\u044a\u0447\u043a\u0430",
+        "hr": "rukavice-na-zahtjev"
+      }
+    },
+    "custom_shinguards": {
+      "description": "Chrániče na přání (vlastní design)",
+      "type": "products",
+      "priority": "medium",
+      "handles": {
+        "cs": "bu1-chranice-elite-vlastni-design",
+        "sk": null,
+        "en": null,
+        "de": null,
+        "pl": null,
+        "fr": null,
+        "es": null,
+        "it": null,
+        "hu": null,
+        "ro": null,
+        "bg": null,
+        "hr": null
+      },
+      "_note": "Product handles for non-CS locales need to be fetched from products sitemap"
+    }
+  },
+  "locales": {
+    "cs": { "name": "Čeština", "flag": "\ud83c\udde8\ud83c\uddff", "priority": "source", "store": "bu1.cz" },
+    "sk": { "name": "Slovenčina", "flag": "\ud83c\uddf8\ud83c\uddf0", "priority": "high", "store": "bu1.cz/sk" },
+    "en": { "name": "English", "flag": "\ud83c\uddec\ud83c\udde7", "priority": "high", "store": "bu1sport.com" },
+    "de": { "name": "Deutsch", "flag": "\ud83c\udde9\ud83c\uddea", "priority": "high", "store": "bu1sport.com/de" },
+    "pl": { "name": "Polski", "flag": "\ud83c\uddf5\ud83c\uddf1", "priority": "high", "store": "bu1sport.com/pl" },
+    "fr": { "name": "Français", "flag": "\ud83c\uddeb\ud83c\uddf7", "priority": "standard", "store": "bu1sport.com/fr" },
+    "es": { "name": "Español", "flag": "\ud83c\uddea\ud83c\uddf8", "priority": "standard", "store": "bu1sport.com/es" },
+    "it": { "name": "Italiano", "flag": "\ud83c\uddee\ud83c\uddf9", "priority": "standard", "store": "bu1sport.com/it" },
+    "hu": { "name": "Magyar", "flag": "\ud83c\udded\ud83c\uddfa", "priority": "standard", "store": "bu1sport.com/hu" },
+    "ro": { "name": "Română", "flag": "\ud83c\uddf7\ud83c\uddf4", "priority": "standard", "store": "bu1sport.com/ro" },
+    "bg": { "name": "\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438", "flag": "\ud83c\udde7\ud83c\uddec", "priority": "standard", "store": "bu1sport.com/bg" },
+    "hr": { "name": "Hrvatski", "flag": "\ud83c\udded\ud83c\uddf7", "priority": "standard", "store": "bu1sport.com/hr" }
+  }
+}
