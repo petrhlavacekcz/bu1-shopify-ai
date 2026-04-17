@@ -52,10 +52,19 @@ Recommended once the core workflows are stable:
 
 Add only if they map to a real BU1 workflow:
 
-- review platforms
+- review platforms (Judge.me is already active — see export convention below)
 - support/helpdesk tools
 - ERP or warehouse systems
+- invoicing and accounting systems such as iDoklad
 - experimentation platforms
+
+### Tier 5: Growth & Intelligence Tools
+
+Evaluated in growth-backlog.md. Add here once approved:
+
+- DataForSEO (competitor keyword intelligence, SERP data)
+- agent-browser.dev (competitor SERP monitoring automation)
+- Shopify Storefront MCP (AI shopping assistant / glove advisor)
 
 ## Integration Matrix
 
@@ -69,6 +78,7 @@ Add only if they map to a real BU1 workflow:
 | Search Console | impressions, CTR, query demand | API | local snapshots | read | adopt |
 | Merchant Center | product visibility on Google | API + Merchant docs MCP | local reports | read first, selective write | adopt |
 | Clarity | friction and behavior evidence | API / export | local snapshots | read | adopt |
+| iDoklad | invoicing, contacts, payments, and billing webhooks | direct API + local workflow skill | local exports or reports | read/write with confirmation | scaffold |
 | Google Ads | paid search performance and campaign diagnostics | official MCP for exploration | Ads API | read first, selective write later | phase 2 |
 | Meta Ads | paid social diagnostics | API | snapshots | read first | phase 2 |
 | Sklik | Czech paid search context | API | snapshots | read first | phase 2 |
@@ -279,12 +289,14 @@ Behavioral evidence source for:
 
 #### Recommended usage
 
-- use Clarity Data Export API for structured reporting
-- use client API only if custom instrumentation becomes necessary
+- use Clarity MCP server for interactive agent queries (scroll depth, engagement time, device breakdown)
+- use Clarity Data Export API for structured reporting and snapshots
 - keep Clarity read-only on the reporting side
+- limit: 10 API req/day, max 3 days data per query — use for ad-hoc audits, not automated loops
 
 Sources:
 
+- [Clarity MCP Server](https://learn.microsoft.com/en-us/clarity/third-party-integrations/clarity-mcp-server)
 - [Clarity Data Export API](https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-data-export-api)
 - [Clarity client API](https://learn.microsoft.com/clarity/setup-and-installation/clarity-api)
 
@@ -414,6 +426,27 @@ Current Shopify toolkit skills:
 - and related Shopify API skills in `.agents/skills/`
 
 These skills should remain vendor-agnostic in behavior even if they call vendor-specific APIs.
+
+## Review Data — Judge.me
+
+BU1 uses Judge.me for product reviews. Reviews are not accessible via Shopify MCP — they require a manual export.
+
+### Export convention
+
+- Export: Judge.me Admin → Export → All published reviews → CSV
+- Save as: `reports/bu1rebuild-all-published-reviews-in-judgeme-format-YYYY-MM-DD-<judgeme-export-id>.csv`
+- Cadence: annually, or after 500+ new reviews
+- Current export: `reports/bu1rebuild-all-published-reviews-in-judgeme-format-2026-04-17-1776454715.csv` (1 478 reviews)
+
+### What the data contains
+
+Fields: `title`, `body`, `rating`, `review_date`, `product_handle`, `reviewer_name`, `location`
+
+### How to use
+
+Run Python analysis against the CSV to extract: customer language, sizing issues, care product mentions, recurring complaints. See `reports/2026-04-17-review-mining-analysis.md` for methodology and findings.
+
+---
 
 ## CLI And Runtime Requirements
 

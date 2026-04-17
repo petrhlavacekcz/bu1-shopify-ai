@@ -1,0 +1,3756 @@
+{
+  "translatableResources": {
+    "nodes": [
+      {
+        "resourceId": "gid://shopify/Link/444636889171",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "O BU1"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Über BU1"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "A BU1"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "O BU1"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "O BU1"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "O BU1"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "O BU1"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "O BU1"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "O BU1"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "O BU1"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "За BU1"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "About BU1"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449336082515",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "DOSPĚLÉ"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "ERWACHSENE"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Felnőttek"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "DOROSŁE"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "DOSPELÉ"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "ADULȚI"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "ODRASLI"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "ADULTOS"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "ADULTI"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "ADULTES"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "ВЪЗРАСТНИ"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "ADULT"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449336115283",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "HOLKY"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "MÄDCHEN"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "LÁNYOK"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "DZIEWCZYNY"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "DIEVČATÁ"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "FETE"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "DJEVOJKE"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "CHICAS"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "RAGAZZE"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "FILLES"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Момичета"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "GIRLS"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449336148051",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "CONTACT GRIP"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "CONTACT GRIP"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "CONTACT GRIP"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "CONTACT GRIP"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "CONTACT GRIP"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "CONTACT GRIP"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "CONTACT GRIP"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "CONTACT GRIP"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "CONTACT GRIP"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "CONTACT GRIP"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "CONTACT GRIP"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "CONTACT GRIP"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449336180819",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "GIGA GRIP"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "GIGA GRIP"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "GIGA GRIP"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "GIGA GRIP"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "GIGA GRIP"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "GIGA GRIP"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "GIGA GRIP"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "GIGA GRIP"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "GIGA GRIP"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "GIGA GRIP"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "GIGA GRIP"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "GIGA GRIP"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449336213587",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "BU1 T1 GRIP"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "BU1 T1 GRIP"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "BU1 T1 GRIP"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "BU1 T1 GRIP"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "BU1 T1 GRIP"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "BU1 T1 GRIP"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "BU1 T1 GRIP"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "BU1 T1 GRIP"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "BU1 T1 GRIP"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "BU1 T1 GRIP"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "BU1 T1 GRIP"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "BU1 T1 GRIP"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449336246355",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "BU1 T2 GRIP"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "BU1 T2 GRIP"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "BU1 T2 GRIP"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "BU1 T2 GRIP"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "BU1 T2 GRIP"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "BU1 T2 GRIP"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "BU1 T2 GRIP"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "BU1 T2 GRIP"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "BU1 T2 GRIP"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "BU1 T2 GRIP"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "BU1 T2 GRIP"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "BU1 T2 GRIP"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449336737875",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "GATOR"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "GATOR"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "GATOR"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "GATOR"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "GATOR"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "GATOR"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "GATOR"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "GATOR"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "GATOR"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "GATOR"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "GATOR"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "GATOR"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449336770643",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "AIR"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "AIR"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "AIR"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "AIR"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "AIR"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "AIR"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "AIR"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "AIR"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "AIR"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "AIR"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "AIR"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "AIR"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449336803411",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "HEAVEN"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "HEAVEN"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "HEAVEN"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "HEAVEN"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "HEAVEN"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "HEAVEN"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "HEAVEN"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "HEAVEN"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "HEAVEN"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "HEAVEN"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "HEAVEN"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "HEAVEN"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449336836179",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "LIGHT"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "LICHT"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "LIGTH"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "LIGHT"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "LIGHT"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "LIGHT"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "LIGHT"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "LIGHT"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "LIGHT"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "LIGHT"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "LIGHT"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "LIGHT"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449336868947",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "CLASSIC"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "CLASSIC"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "CLASSIC"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "CLASSIC"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "CLASSIC"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "CLASSIC"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "CLASSIC"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "CLASSIC"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "CLASSIC"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "CLASSIC"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "CLASSIC"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "CLASSIC"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449336901715",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "ONE"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "ONE"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "ONE"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "ONE"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "ONE"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "ONE"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "ONE"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "ONE"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "ONE"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "ONE"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "ONE"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "ONE"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449336967251",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "XX"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "XX"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "XX"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "XX"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "XX"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "XX"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "XX"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "XX"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "XX"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "XX"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "XX"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "XX"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449337688147",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Běžné dresy"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Alltags-Trikots"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Átlagos mez"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Zwykłe koszulki"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Bežné dresy"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Tricouri obișnuite"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Uobičajeni dresovi"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Camisetas comunes"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "Maglie comuni"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Maillots ordinaires"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Обикновени екипи"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "Common jerseys"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449338048595",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "PÉČE O RUKAVICE"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "PFLEGE FÜR HANDSCHUHE"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Kesztyűk gondozása"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "OPIEKA NAD RĘKAWICAMI"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "STAROSTLIVOSŤ O RUKAVICE"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "ÎNGRIJIREA MĂNUȘILOR"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "BRIGA O RUKAVICAMA"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "CUIDADO DE LOS GUANTES"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "CURA DELLE GUANTI"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "SOINS DES GANTS"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "ГРИЖА ЗА РЪКАВИЦИ"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "CARE FOR GLOVES"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449339523155",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "VÝPRODEJ"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "AUSVERKAUF"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "KIÁRUSÍTÁS"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "WYPRZEDAŻ"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "VÝPREDAJ"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "VÂNZARE"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "RASPRODAJA"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "LIQUIDACIÓN"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "SALDI"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "VENTE"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "РАЗПРОДАЖБА"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "SALE"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449542389843",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "OBLEČENÍ"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "KLEIDUNG"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Ruházat"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "ODZIEŻ"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "OBLEČENIE"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "ÎMBRĂCĂMINTE"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "ODJEĆA"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "VESTIMENTA"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "ABBIGLIAMENTO"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "VÊTEMENTS"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "ОБЛЕКЛО"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "CLOTHING"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449542422611",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "VÝSTROJ"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "AUSRÜSTUNG"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "FELSZERELÉS"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "WYPOSAŻENIE"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "VYBAVENIE"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Echipament"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "OPREMA"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "EQUIPO"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "ATTREZZATURA"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "ÉQUIPEMENT"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "ОБОРУДВАНЕ"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "GEAR"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449564999763",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "DĚTI"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "KINDER"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "GYERMEKEK"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "DZIECI"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "DETI"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "COPII"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "DJECI"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "NIÑOS"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "BAMBINI"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "JUNIORS"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "ДЕЦА"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "CHILDREN"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449613463635",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "MAGAZÍN"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "MAGAZIN"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "MAGAZIN"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "MAGAZYN"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "MAGAZÍN"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "REVISTA"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "MAGAZIN"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "REVISTA"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "MAGAZZINO"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "MAGAZINE"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "МАГАЗИН"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "MAGAZINE"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449613496403",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "NAŠI BRANKÁŘI"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "UNSERE TORWÄRTER"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "KAPUSAINK"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "NASI BRAMKARZE"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "NAŠI BRANKÁRI"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "PORTARII NOȘTRI"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "NAŠI VRATARI"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "NUESTROS PORTEROS"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "I NOSTRI PORTIERI"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "NOS GARDIENS DE BUT"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "НАШИТЕ ВРАТАРИ"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "OUR GOALKEEPERS"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449613529171",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "POMOC + KONTAKTY"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "HILFE + KONTAKTE"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "SEGÍTSÉG + KAPCSOLATOK"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "POMOC + KONTAKTY"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "POMOC + KONTAKTY"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "AJUTOR + CONTACTE"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "POMOĆ + KONTAKTI"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "AYUDA + CONTACTOS"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "AIUTO + CONTATTI"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "AIDE + CONTACTS"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "ПОМОЩ + КОНТАКТИ"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "HELP + CONTACTS"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449613955155",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Dresy na zakázku"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Maßanzüge"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Egyedi mezek"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Dresy na zamówienie"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Dresy na mieru"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Tricouri personalizate"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Dresovi po narudžbi"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Ropa personalizada"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "Abbigliamento su misura"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Vêtements sur mesure"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Дреси по поръчка"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "Custom jerseys"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449614643283",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "DÁRKOVÉ POUKAZY"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "GESCHENKGUTSCHEINE"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "AJÁNDÉKUTALVÁNYOK"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "VOUCHERY PREZENTOWE"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "DARČEKOVÉ POUKAZY"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "VOUCHERE CADOU"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "DAROVNI BONOVI"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "VALORES DE REGALO"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "BUONI REGALO"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "BONS CADEAUX"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "ПОДАРЪЧНИ ВАУЧЕРИ"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "GIFT VOUCHERS"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449658716243",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "BRANKÁŘSKÉ RUKAVICE"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "TORWARTHANDSCHUHE"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Kapus kesztyű"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "RĘKAWICE BRAMKARSKIE"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "BRANKÁRSKE RUKAVICE"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Mănuși de portar"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "RUKAVICE ZA VRATARA"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "GUANTES DE PORTERO"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "GUANTI DA PORTIERE"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "GANTS DE GARDIEN"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "ВРАТАРСКИ РЪКАВИЦИ"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "GOALKEEPER GLOVES"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449659732051",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "O BU1"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Über BU1"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "A BU1"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "O BU1"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "O BU1"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "O BU1"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "O BU1"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "O BU1"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "O BU1"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Sur BU1"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "За BU1"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "About BU1"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449659764819",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Magazín"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Magazin"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Magazin"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Magazyn"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Časopis"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Revista"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Časopis"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Revista"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "Rivista"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Magazine"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Списание"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "Magazine"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449659797587",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Naši brankáři"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Unsere Torhüter"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "A kapusaink"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Nasi bramkarze"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Naši brankári"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Păstrătorii noștri de poartă"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Naši golmani"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Nuestros porteros"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "I nostri portieri"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Nos gardiens de but"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Нашите вратари"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "Our goalkeepers"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449659830355",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Pomoc + Kontakty"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Hilfe + Kontakte"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Segítség + Kapcsolatok"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Pomoc + Kontakty"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Pomoc + Kontakty"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Ajutor + Contacte"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Pomoć + Kontakti"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Ayuda + Contactos"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "Aiuto + Contatti"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Aide + Contacts"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "ПОМОЩ + КОНТАКТИ"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "Help + Contacts"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449671168083",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "NEGATIVE CUT (NC)"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "NEGATIVE CUT (NC)"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "NEGATIVE CUT (NC)"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "NEGATIVE CUT (NC)"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "NEGATIVE CUT (NC)"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "NEGATIVE CUT (NC)"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "NEGATIVE CUT (NC)"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "NEGATIVE CUT (NC)"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "NEGATIVE CUT (NC)"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "NEGATIVE CUT (NC)"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "NEGATIVE CUT (NC)"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "NEGATIVE CUT (NC)"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/449671200851",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "JUNIOR MODELY"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "JUNIOR MODELLE"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "JUNIOR MODELLEK"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "JUNIOR MODELY"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "JUNIOR MODELY"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "MODELE JUNIOR"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "JUNIOR MODELI"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "MODELOS JÓVENES"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "MODELLI JUNIOR"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "MODÈLES JUNIOR"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "МОДЕЛИ ЗА МЛАДЕЖИ"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "JUNIOR MODELS"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/450077327443",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Doprava a platba"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Transport und Zahlung"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Szállítás és fizetés"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Transport i płatność"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Doprava a platba"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Transport și plată"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Prijevoz i plaćanje"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Transporte y pago"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "Trasporto e pagamento"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Transport et paiement"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Доставка и плащане"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "Shipping and payment"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/450077360211",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Obchodní podmínky"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Allgemeine Geschäftsbedingungen"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Általános Szerződési Feltételek"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Warunki handlowe"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Obchodné podmienky"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Termeni și condiții"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Uvjeti poslovanja"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Términos y condiciones"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "Termini e condizioni"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Conditions générales"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Търговски условия"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "Terms and Conditions"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/450077392979",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Reklamace"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Reklamationsbedingungen"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Reklamációs feltételek"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Warunki reklamacji"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Reklamačné podmienky"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Condiții de reclamație"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Uvjeti reklamacije"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Condiciones de reclamación"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "Condizioni di reclamo"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Conditions de réclamation"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Условия за рекламация"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "Return Policy"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/450077425747",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Zpracování osobních údajů"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Verarbeitung personenbezogener Daten"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Személyes adatok kezelése"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Przetwarzanie danych osobowych"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Spracovanie osobných údajov"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Prelucrarea datelor personale"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Obrada osobnih podataka"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Procesamiento de datos personales"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "Trattamento dei dati personali"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Traitement des données personnelles"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Обработка на лични данни"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "Processing of personal data"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/450265579603",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Naši brankáři"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Unsere Torhüter"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "A kapusaink"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Nasi bramkarze"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Naši brankári"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Păstrătorii noștri de poartă"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Naši golmani"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Nuestros porteros"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "I nostri portieri"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Nos gardiens de but"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Нашите вратари"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "Our goalkeepers"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/450265612371",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Náš příběh"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Unsere Geschichte"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "A mi történetünk"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Nasza historia"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Náš príbeh"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Povestea noastră"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Naša priča"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Nuestra historia"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "La nostra storia"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Notre histoire"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Нашата история"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "Our story"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/450265645139",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Prodejny"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Verkaufsstellen"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Boltok"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Sklepy"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Predajne"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Magazine"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Trgovine"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Tiendas"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "Negozi"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Magasins"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Магазини"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "Stores"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/459174314067",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Jak si správně vybrat rukavice"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Wie man die richtigen Handschuhe auswählt"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Hogyan válasszuk ki helyesen a kesztyűt"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Jak prawidłowo wybrać rękawice"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Ako si správne vybrať rukavice"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Cum să alegi corect mănușile"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Kako pravilno odabrati rukavice"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Cómo elegir correctamente unos guantes"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "Come scegliere correttamente i guanti"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Comment bien choisir des gants"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Как да изберем правилно ръкавици"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "How to Choose the Right Gloves"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/459174346835",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Péče o rukavice"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Handschuhpflege"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "A kesztyűk ápolása"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Pielęgnacja rękawiczek"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Starostlivosť o rukavice"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Îngrijirea mănușilor"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Briga o rukavicama"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Cuidado de los guantes"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "Cura dei guanti"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Prendre soin des gants"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Грижа за ръкавиците"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "Care for gloves"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/459174740051",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Rukavice na přání"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Handschuhe auf Wunsch"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Kérésre készült kesztyű"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Rękawice na życzenie"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Rukavice na prianie"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Mănuși la cerere"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Rukavice po želji"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Guantes a medida"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "Guanti su richiesta"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Gants sur demande"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Ръкавици по желание"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "Gloves on request"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/459174772819",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Oblečení na zakázku"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Maßgeschneiderte Kleidung"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Egyedi ruházat"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Odzież na zamówienie"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Oblečenie na mieru"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Îmbrăcăminte personalizată"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Odjeća po mjeri"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Ropa a medida"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "Abbigliamento su misura"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Vêtements sur mesure"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Облекло по поръчка"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "Custom clothing"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/459175329875",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Kontakt"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Kontakt"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Kapcsolat"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Kontakt"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Kontakt"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Contact"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Kontakt"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Contacto"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "Contatto"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Contact"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Контакт"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "Contact"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/468707672147",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Objednávky"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Bestellungen"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Rendelések"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Zamówienia"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Objednávky"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Comenzi"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Narudžbe"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Órdenes"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "Ordini"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Commandes"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Поръчки"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "Orders"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/472126750803",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "Recenze"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "Bewertung"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "Értékelés"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "Recenzje"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "Recenzia"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "Recenzie"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "Recenzije"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "Reseña"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "Recensione"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "Critique"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "Отзиви"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "Reviews"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/484787585107",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "CHAMP"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "CHAMP"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "CHAMP"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "CHAMP"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "CHAMP"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "CHAMP"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "CHAMP"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "CHAMP"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "CHAMP"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "CHAMP"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "CHAMP"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "CHAMP"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/486894796883",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "NA ZAKÁZKU"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "MASSGEFERTIGTE"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "KÉRÉSRE"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "NA ZAMÓWIENIE"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "NA ŽELANIE"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "LA CERERE"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "PO ŽELJI"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "A PEDIDO"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "SU RICHIESTA"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "SUR COMMANDE"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "по поръчка"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "CUSTOM MADE"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/493203652691",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "ROLL FINGER (RF)"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "ROLL FINGER (RF)"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "ROLL FINGER (RF)"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "ROLL FINGER (RF)"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "ROLL FINGER (RF)"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "ROLL FINGER (RF)"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "ROLL FINGER (RF)"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "ROLL FINGER (RF)"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "ROLL FINGER (RF)"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "ROLL FINGER (RF)"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "ROLL FINGER (RF)"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "ROLL FINGER (RF)"
+          }
+        ]
+      },
+      {
+        "resourceId": "gid://shopify/Link/493203685459",
+        "translatableContent": [
+          {
+            "key": "title",
+            "value": "HYLA"
+          }
+        ],
+        "de": [
+          {
+            "key": "title",
+            "value": "HYLA"
+          }
+        ],
+        "hu": [
+          {
+            "key": "title",
+            "value": "HYLA"
+          }
+        ],
+        "pl": [
+          {
+            "key": "title",
+            "value": "HYLA"
+          }
+        ],
+        "sk": [
+          {
+            "key": "title",
+            "value": "HYLA"
+          }
+        ],
+        "ro": [
+          {
+            "key": "title",
+            "value": "HYLA"
+          }
+        ],
+        "hr": [
+          {
+            "key": "title",
+            "value": "HYLA"
+          }
+        ],
+        "es": [
+          {
+            "key": "title",
+            "value": "HYLA"
+          }
+        ],
+        "it": [
+          {
+            "key": "title",
+            "value": "HYLA"
+          }
+        ],
+        "fr": [
+          {
+            "key": "title",
+            "value": "HYLA"
+          }
+        ],
+        "bg": [
+          {
+            "key": "title",
+            "value": "HYLA"
+          }
+        ],
+        "en": [
+          {
+            "key": "title",
+            "value": "HYLA"
+          }
+        ]
+      }
+    ]
+  }
+}

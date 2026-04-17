@@ -19,7 +19,7 @@
  * Author field: always "Petr Hlavacek"
  */
 
-import { execSync } from 'child_process';
+import { execSync, execFileSync } from 'child_process';
 import { readFileSync, writeFileSync, readdirSync, statSync } from 'fs';
 import { tmpdir } from 'os';
 import { join, dirname, basename } from 'path';
@@ -79,6 +79,17 @@ function findTranslationFiles() {
     .filter(f => f.endsWith('.md'))
     .sort()
     .map(f => parseMd(join(dir, f)));
+}
+
+function validateImageStrategy(sourceFiles) {
+  const validator = join(BASE, 'scripts/validate_blog_images.py');
+  console.log('\n🔎 Validating image strategy...');
+  try {
+    execFileSync('python3', [validator, ...sourceFiles], { stdio: 'inherit' });
+  } catch (err) {
+    console.error('\n❌ Image validation failed. Fix draft image planning before upload.');
+    throw err;
+  }
 }
 
 // ─── Shopify CLI executor ─────────────────────────────────────────────────────
@@ -289,6 +300,8 @@ function main() {
     console.log('\nNo source files found in drafts/blog/');
     return;
   }
+
+  validateImageStrategy(sourceFiles);
 
   // Load all translation files once
   const allTrans = findTranslationFiles();

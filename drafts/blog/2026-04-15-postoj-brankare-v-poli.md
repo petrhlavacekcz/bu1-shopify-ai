@@ -39,13 +39,18 @@ evidence_sources:
 # Images
 images:
   - role: hero
+    kind: photo
     size: 1600x900
+    placement: top
     alt: Mladý brankář v nízkém aktivním postoji čte situaci před střelou
     prompt: "Realistic sports photo, youth football goalkeeper in low ready stance, feet shoulder-width, hands active, reading the field, training ground, natural light, no text, 16:9"
-  - role: supporting
+  - role: bisector-positioning
+    kind: photo
     size: 1200x800
-    alt: Brankář se pohybuje mezi kužely při tréninku postavení
-    prompt: "Realistic youth goalkeeper positioning drill with cones, coach pointing to position, goalkeeper moving laterally in goal area, daylight training session, no text"
+    placement: after_h2
+    after_heading: "Kde stát: čára nebo výběh"
+    alt: Brankář stojí na bisektoru a zmenšuje úhel střelci.
+    prompt: "Realistic youth football goalkeeping photo, goalkeeper positioned slightly off the line on the bisector angle, attacker with ball approaching, coach pointing at positioning lines, daylight, no text"
 ---
 
 <h1>Postoj brankáře v poli: kdy stát, kdy se pohybovat</h1>

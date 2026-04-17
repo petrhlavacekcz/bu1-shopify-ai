@@ -26,8 +26,9 @@ When creating or reviewing translations, verify:
 
 1. **Correct domain in links** — bu1sport.com for all non-Czech locales (never bu1.cz)
 2. **Formal register** — formal "you" in all languages (Sie/Pan/Vy, never du/ty/tu)
-3. **Terminology per glossary** — consistent terms (football, not soccer; goalkeeper, not goalie)
-4. **No forbidden terms** — no Czech words leaking into translations (fotbal, brankářské, rukavice, brankář)
+3. **Goalkeeper Slang per glossary** — ALWAYS use [`config/goalkeeper_glossary.json`](../config/goalkeeper_glossary.json) for technical terms (latex, cuts, saves, etc.)
+4. **Terminology consistency** — consistent terms (football, not soccer; goalkeeper, not goalie)
+5. **No forbidden terms** — no Czech words leaking into translations (fotbal, brankářské, rukavice, brankář) and no forbidden terms from the glossary (e.g., no "Schaumstoff" in DE)
 5. **Meta description matches correct product** — no copy-paste errors from other products
 6. **No duplicate text** — translation must differ from Czech default (flag identical content)
 7. **Localized, not literal** — adapt for target market while keeping brand voice
@@ -80,6 +81,34 @@ python3 scripts/validate_translations.py --input BU1_translations/<batch-dir> --
 # Export report
 python3 scripts/validate_translations.py --input BU1_translations/<batch-dir> --report reports/qc_$(date +%Y%m%d).csv
 ```
+
+## Market Keyword Localization
+
+See `docs/blog-articles.md` → **Market Keyword Localization** for the full rules, tier system, and GSC signals.
+
+**Short rule:** if `market_keywords[locale]` exists in source frontmatter → H1, seo_title, and opening sentence use that phrase, not a translated version of the Czech keyword.
+
+## Surgical Translation Updates
+
+When a published Czech article is updated, **do not regenerate all translations**. Only update what changed.
+
+### Protocol
+
+1. Identify what changed in the Czech source: which section(s), which fields (body, H2, meta title)?
+2. For each translation: update only the corresponding section(s) in that locale
+3. If only `seo_title` changed in Czech → update only `seo_title` in each translation (9 words, not 1200)
+4. If a new H2 section was added → translate only that section and insert in the correct position
+5. Re-run link validation only for the changed section
+
+### Why this matters
+
+Regenerating a full translation risks introducing regressions — a validated localized keyword in H1 may get overwritten, or a carefully placed internal link may move. Surgical updates preserve the work already done.
+
+### When to regenerate fully
+
+- Article is restructured (H2 order changed, major sections added/removed)
+- Primary keyword changed
+- More than 40% of body content changed
 
 ## Translation Depth Rules
 

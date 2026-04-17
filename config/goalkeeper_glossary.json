@@ -1,0 +1,126 @@
+{
+  "comment": "BU1 Goalkeeper Slang & Technical Glossary. Use as primary reference for all translations to ensure professional authority.",
+  "terms": {
+    "foam_latex": {
+      "cs": "pěna",
+      "sk": "pěna",
+      "de": "Haftschaum",
+      "hu": "tapadó hab",
+      "pl": "pianka",
+      "en": "latex foam",
+      "ro": "latex",
+      "hr": "lateks",
+      "es": "látex",
+      "it": "lattice",
+      "fr": "latex",
+      "bg": "латекс"
+    },
+    "negative_cut": {
+      "cs": "negativní střih",
+      "sk": "negatívny strih",
+      "de": "NC-Schnitt",
+      "hu": "negatív szabás",
+      "pl": "negative cut",
+      "en": "negative cut",
+      "ro": "negative cut",
+      "hr": "negativni rez",
+      "es": "corte negativo",
+      "it": "taglio negativo",
+      "fr": "coutures négatives",
+      "bg": "негативен шев"
+    },
+    "warm_up": {
+      "cs": "rozcvička",
+      "sk": "rozcvička",
+      "de": "Aufwärmen",
+      "hu": "bemelegítés",
+      "pl": "rozgrzewka",
+      "en": "warm-up",
+      "ro": "încălzire",
+      "hr": "zagrijavanje",
+      "es": "calentamiento",
+      "it": "riscaldamento",
+      "fr": "échauffement",
+      "bg": "загрявка"
+    },
+    "hoodie": {
+      "cs": "mikina",
+      "sk": "mikina",
+      "de": "Hoodie",
+      "hu": "kapucnis pulóver",
+      "pl": "bluza",
+      "en": "hoodie",
+      "ro": "hanorac",
+      "hr": "dukserica",
+      "es": "sudadera",
+      "it": "felpa",
+      "fr": "sweat à capuche",
+      "bg": "суичър"
+    },
+    "socks_stutzen": {
+      "cs": "štulpny",
+      "sk": "štulpne",
+      "de": "Stutzen",
+      "hu": "sportszár",
+      "pl": "getry",
+      "en": "socks",
+      "ro": "jambiere",
+      "hr": "štucne",
+      "es": "medias",
+      "it": "calzettoni",
+      "fr": "chaussettes de foot",
+      "bg": "калци"
+    },
+    "save_goalkeeper": {
+      "cs": "zákrok",
+      "sk": "zákrok",
+      "de": "Parade",
+      "hu": "védés",
+      "pl": "interwencja",
+      "en": "save",
+      "ro": "paradă",
+      "hr": "obrana",
+      "es": "parada",
+      "it": "parata",
+      "fr": "arrêt",
+      "bg": "спасяване"
+    },
+    "artificial_grass": {
+      "cs": "umělá tráva",
+      "sk": "umelá tráva",
+      "de": "Kunstrasen",
+      "hu": "műfű",
+      "pl": "sztuczna trawa",
+      "en": "artificial grass",
+      "ro": "gazon artificial",
+      "hr": "umjetna trava",
+      "es": "césped artificial",
+      "it": "erba sintetica",
+      "fr": "terrain synthétique",
+      "bg": "изкуствена трева"
+    },
+    "grip": {
+      "cs": "přilnavost",
+      "sk": "priľnavosť",
+      "de": "Grip",
+      "hu": "tapadás",
+      "pl": "chwyt",
+      "en": "grip",
+      "ro": "aderență",
+      "hr": "prijanjanje",
+      "es": "agarre",
+      "it": "presa",
+      "fr": "adhérence",
+      "bg": "сцепление"
+    }
+  },
+  "forbidden_terms": {
+    "de": {
+      "Pullover": "Use Hoodie or Sweatshirt for sports apparel",
+      "Schaumstoff": "Use Haftschaum for goalkeeper gloves"
+    },
+    "pl": {
+      "budzi ręce": "Use pobudza dłonie"
+    }
+  }
+}

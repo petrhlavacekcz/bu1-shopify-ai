@@ -14,17 +14,20 @@ Translation workflow: see [`docs/translations.md`](translations.md)
 ## Article Creation Workflow
 
 1. Read `config/article_generator.json` for brand voice, internal links, SEO rules
+1b. **[Clusters 1–3 only] Run Gemini deep research** before creating the draft — see **Deep Research Protocol** below
 2. Create a draft file in `drafts/blog/YYYY-MM-DD-<handle>.md` using the **Draft File Format** below (frontmatter = content brief + SEO + metadata, single source of truth)
 3. Assign to a topic cluster from [`docs/topic-cluster-map.md`](topic-cluster-map.md) via `cluster` field
-4. Select 1-3 relevant internal links from `evergreen_pages` in config
-5. Add `related_articles` — at least 1 link to another article from the same or adjacent cluster (see **Inter-Article Linking** below)
-6. Write Czech article: H1 with keyword, 4-6× H2, min 1200 slov (pokud není zadáno jinak)
-7. Apply brand voice from [`docs/brand.md`](brand.md)
-8. Save as draft via Shopify `articleCreate` mutation (`isPublished: false`)
-9. Include SEO metafields (`global.title_tag`, `global.description_tag`)
-10. Generate translations for all 11 locales (see [`docs/translations.md`](translations.md))
-11. **Validate all links** in Czech article and every translation (see Link Validation below)
-12. Validate against Translation Quality Checklist
+4. **Validate market keywords** for tier-1 and tier-2 locales (see **Market Keyword Localization** below). Add validated local search phrasing to `market_keywords` in frontmatter before writing the Czech article — translations depend on it.
+5. Select 1-3 relevant internal links from `evergreen_pages` in config
+6. Add `related_articles` — at least 1 link to another article from the same or adjacent cluster (see **Inter-Article Linking** below)
+7. Write Czech article: H1 with keyword, 4-6× H2, min 1200 slov (pokud není zadáno jinak)
+8. Apply brand voice from [`docs/brand.md`](brand.md)
+9. Plan article visuals in `images` using [`docs/blog-photography.md`](blog-photography.md) and run `python3 scripts/validate_blog_images.py <draft>`
+10. Save as draft via Shopify `articleCreate` mutation (`isPublished: false`)
+11. Include SEO metafields (`global.title_tag`, `global.description_tag`)
+12. Generate translations for all 11 locales (see [`docs/translations.md`](translations.md))
+13. **Validate all links** in Czech article and every translation (see Link Validation below)
+14. Validate against Translation Quality Checklist
 
 ## Draft File Format
 
@@ -53,6 +56,10 @@ audience: dorost, trenéři, ambiciózní brankáři
 search_intent: informational
 business_goal: podpora autority v distribuci; soft link na rukavice
 
+# Open questions — must be resolved before writing starts
+# Remove this block once all questions are answered
+open_questions: []        # example: ["Věková skupina: do 12 nebo 15?", "Zahrnout drily s brankářskými botami?"]
+
 # SEO
 seo_title: "Rozehrávka brankáře: 6 chyb, které odevzdávají míč"
 seo_description: "Rozehrávka brankáře nohama u dětí a dorostu často rozhoduje pod tlakem. Podívejte se na 6 chyb, které zbytečně odevzdávají míč."
@@ -67,12 +74,44 @@ evidence_sources:        # cite inline in body, NOT as a Zdroje section
   - FIFA Training Centre — build-up phase
   - Savelsbergh 2002 (Journal of Sports Sciences)
 
+# Market keyword localization — validated local search phrasing per locale
+# Only include locales where phrasing differs from a direct keyword translation.
+# Translations use these as H1 + seo_title anchor. See docs/translations.md → Market Keyword Localization.
+market_keywords:
+  sk: rozhrávka brankára nohami
+  hu: kapus labdakezelés lábbal
+  de: Torwart Spielaufbau mit dem Fuß
+  pl: rozgrywanie bramkarza nogą
+  ro: mingea portarului cu piciorul
+
+# Success criteria — defines what "working" means for this article
+# Review date = 90 days after publish. Loop checks these automatically.
+success_criteria:
+  primary_goal: "rank top 3 for `rozehrávka brankáře` (CZ) within 90 days"
+  target_position: 3
+  target_ctr_percent: 5
+  target_monthly_clicks: 60
+  target_bounce_rate: 0.45
+  internal_click_goal: "1 click to how_to_choose_gloves per 80 pageviews"
+  review_date: 2026-07-10
+  baseline_date: 2026-04-10
+
 # Images — shortlist; full specs in blog-photography.md
 images:
   - role: hero
+    kind: photo
     size: 1600x900
+    placement: top
     alt: Brankář při rozehrávce nohama otevírá tělo do volného prostoru
     prompt: "Realistic sports photo, goalkeeper distributing with feet, open body, 16:9"
+  - role: first-touch-angle
+    kind: infographic
+    size: 1200x800
+    placement: after_h2
+    after_heading: "Chyba 1: Brankář si bere první dotek proti tlaku"
+    alt: Otevřený první dotek vytváří bezpečný úhel pro další přihrávku.
+    caption: Otevřený první dotek přidává čas. Zavřený první dotek zve pressing.
+    prompt: "Clean football infographic showing goalkeeper receiving a back pass with open and closed body shape, simple arrows, no watermark, 3:2"
 ---
 
 <h1>…</h1>
@@ -85,6 +124,147 @@ Rules:
 - **No `Zdroje` section in body.** Cite sources inline with author + year. `evidence_sources` in frontmatter is a checklist, not reader output.
 - **No "SEO Rationale" prose.** If a title choice needs explaining, put it in the commit message.
 - **Body starts right after frontmatter** — plain HTML, no ```html fence.
+- **`market_keywords` is required for clusters 1–3.** Fill before writing — translations depend on it.
+- **`images` stays only in the CS source draft.** Translation files do not duplicate image blocks.
+- **Image roles must be unique.** Use machine-readable slugs (`hero`, `drink-comparison`, `penalty-biomechanics`), not repeated `supporting`.
+- **Inline images need placement metadata.** Non-hero images require `placement: after_h2` and exact `after_heading`.
+- **`open_questions` must be empty before writing starts.** If unresolvable, narrow article scope rather than writing a vague article.
+- **`success_criteria` is required for all published articles.** Set targets before writing, not retroactively. Review date = 90 days after publish.
+- **One search intent per article.** If H1 answers two different questions, split into two articles.
+
+## Image Planning & Placement (mandatory)
+
+Full image rules live in [`docs/blog-photography.md`](blog-photography.md). This section defines how image planning fits the article workflow.
+
+### Why this exists
+
+Long-form articles need visual breaks, but random images make content worse:
+- Google image SEO works better when images sit near relevant text and use useful alt text
+- Accessibility guidance requires images to convey meaning, not just decoration
+- Public-sector content guidance warns that too many images reduce scanability and page speed
+
+### BU1 heuristic
+
+This is a **BU1 editorial rule**, not a universal web standard:
+
+| Article length | Minimum image count | Default target |
+|---|---|---|
+| under 900 words | 1 | 1 |
+| 900-1500 words | 2 | 2-3 |
+| over 1500 words | 3 | 3-4 |
+
+Rules:
+- Every article has **exactly 1 hero image**
+- If an article has only one image, it must be the hero at the top
+- First inline image must be anchored after the **first or second H2**
+- Longer articles must spread inline images across the piece, not cluster them in one section
+- Maximum default ceiling is **5 images** unless the article genuinely needs more visual explanation
+
+### What counts as a valid inline image
+
+Use an inline image only if it does one of these:
+- visualizes a drill setup that is hard to imagine from text alone
+- clarifies a comparison, timeline, process, or biomechanical cue
+- supports a section with a real match/training situation the reader should recognize
+
+Do **not** use an inline image only to fill whitespace.
+
+### Validation
+
+Run:
+
+```bash
+python3 scripts/validate_blog_images.py
+python3 scripts/validate_blog_images.py drafts/blog/YYYY-MM-DD-<handle>.md
+```
+
+`scripts/upload_blog_articles.mjs` now runs this validator automatically before any Shopify mutation.
+
+## Market Keyword Localization
+
+Czech is the source language. Translations must not mechanically translate the Czech primary keyword — they must use the phrase real users in that market actually search for.
+
+### Why this matters
+
+`jak trénovat postřeh brankáře` → mechanically translated to DE = `wie man die Reaktion des Torhüters trainiert`
+But Germans search: `Torwart Reaktionstraining` or `Reflexübungen Torwart`
+
+Using the wrong phrasing means: correct content, wrong keyword, no organic ranking.
+
+### Locale tiers
+
+| Tier | Locales | Action |
+|---|---|---|
+| **1 — always validate** | sk, hu, de | Research local phrasing before writing. Add to `market_keywords`. Translations use it in H1 + seo_title. |
+| **2 — validate for goalkeeper content** | ro, hr, pl | Validate for clusters 1–3. Add to `market_keywords` if phrasing differs. |
+| **3 — translate is sufficient** | en, fr, es, it, bg | Mechanical translation of primary keyword is acceptable. No `market_keywords` entry needed unless GSC shows a mismatch. |
+
+### How to validate a market keyword
+
+1. Check `config/article_generator.json` → `market_seo_tiers` for confirmed GSC signals per locale
+2. Search the localized phrase on Google in that market — note what autocomplete and top results suggest
+3. If the top-ranking competitor pages use a different phrase, use their phrase, not your translation
+4. Record the validated phrase in `market_keywords` in the source draft frontmatter
+
+### How translations use market_keywords
+
+- If `market_keywords[locale]` is present: H1 and `seo_title` must contain that phrase (not the translated Czech keyword)
+- The article body remains a localized translation of the Czech source — only H1, seo_title, and the first sentence are restructured around the local keyword
+- `market_keywords` entries are informational for the translator, not published to Shopify
+
+### Confirmed keyword signals from GSC (bu1sport.com, Jan–Apr 2026)
+
+| Locale | Confirmed query | Impressions | CTR | Position |
+|---|---|---|---|---|
+| hu | `kapusedzés gyakorlatok` | 66 | 16.7% | 3.6 |
+| hu | `bu1 kapuskesztyű` | 187 | 10.7% | 1.4 |
+| de | `bu1 torwarthandschuhe` | 22 | 50% | 1.0 |
+| pl | `korki dla bramkarza` | 309 | 2.3% | 5.3 |
+| ro | goalkeeper training (translated) | 1 345 | 7.0% | 6.2 |
+| hr | `nogometni trening za djecu` | 69 | 17.4% | 2.1 |
+
+These confirm that goalkeeper content in HU, DE, HR converts at high CTR despite low BU1 brand awareness in those markets.
+
+## Deep Research Protocol (Clusters 1–3)
+
+For technique-heavy or science-backed goalkeeper articles, run a Gemini deep research session **before** creating the draft. This is the "Think Before Writing" phase — resolves `open_questions` and populates `evidence_sources`.
+
+### When to use
+
+- Cluster 1 (Fundamentals): any technique article — pádová technika, postřeh, postavení, jistota v rukou
+- Cluster 2 (Match Situations): penalty science, 1v1, dead-ball situations
+- Cluster 3 (Distribution): biomechanics, pressing reads, footwork
+- Not needed for: Cluster 4 (Glove Education — product-based), Cluster 5 (Youth Dev — coaching practice-based)
+
+### Research prompt template
+
+```
+Deep research for BU1 goalkeeper blog article:
+
+Topic: [přesný název článku, např. "pádová technika brankáře"]
+Target audience: [např. děti 10–14 let, rodiče, trenéři]
+Primary keyword (CZ): [keyword]
+
+Find:
+1. What does the scientific/coaching literature say? (exercise physiology, biomechanics, UEFA/FIFA coaching docs, peer-reviewed studies)
+2. What are the top 5 ranking articles on this topic covering that we might miss?
+3. What are common misconceptions or mistakes coaches/players have about this topic?
+4. What questions do goalkeepers, parents, and coaches actually ask? (forums, Reddit, coaching communities)
+5. Any real player examples, club drills, or competition situations that illustrate the concept?
+
+Output: summary of evidence + list of 3–5 citable sources (author, year, publication)
+```
+
+### How to use the output
+
+- Sources → `evidence_sources` in frontmatter
+- Open questions resolved → `open_questions: []` confirmed before writing
+- Misconceptions → natural H2 angle ("Nejčastější chyba při pádové technice")
+- Real examples → body storytelling (Karpathy: specific over vague)
+
+**Do not paste Gemini output into the article.** Use it as a research brief — write the article in BU1 brand voice.
+
+---
 
 ## Inter-Article Linking
 
@@ -224,12 +404,18 @@ Rules:
 ```bash
 node scripts/upload_blog_articles.mjs                    # sync all files in drafts/blog/
 node scripts/upload_blog_articles.mjs drafts/blog/YYYY-MM-DD-<handle>.md   # one file
+python3 scripts/validate_blog_images.py                  # image strategy preflight
 ```
 
 **Auth (run once per session):**
 ```bash
 shopify store auth --store bu1rebuild.myshopify.com \
   --scopes write_content,write_translations,read_content,read_translations
+```
+
+**Preflight (runs automatically inside upload script):**
+```bash
+python3 scripts/validate_blog_images.py drafts/blog/YYYY-MM-DD-<handle>.md
 ```
 
 ### Publish rules — hardcoded in script, do not bypass
@@ -281,6 +467,7 @@ shopify store execute --store bu1rebuild.myshopify.com --allow-mutations \
 | Translatable keys | `title`, `body_html`, `summary_html`, `handle`, `meta_title`, `meta_description` |
 | SEO storage | SEO title = metafield `global.title_tag` (type: `single_line_text_field`) · SEO desc = `global.description_tag` (type: `multi_line_text_field`) |
 | Input field names | `body` (not `bodyHTML`), `summary` (not `summaryHTML`) in `ArticleCreateInput` / `ArticleUpdateInput` |
+| Image preflight | Upload script aborts if `scripts/validate_blog_images.py` fails for the selected source draft(s) |
 | Idempotent | Script is safe to re-run — existing articles are updated, existing translations overwritten |
 
 ### Article GIDs (as of 2026-04-10 upload)

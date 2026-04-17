@@ -39,9 +39,18 @@ evidence_sources:
 # Images
 images:
   - role: hero
+    kind: photo
     size: 1600x900
+    placement: top
     alt: Mladý brankář se rozcvičuje před zápasem s trenérem
     prompt: "Realistic sports photo, youth football goalkeeper pre-match warm-up, teenage goalkeeper in ready stance with coach nearby, cones and balls on grass pitch, focused atmosphere, natural light, authentic Czech football setting, no text, no watermark, 16:9"
+  - role: footwork-activation
+    kind: photo
+    size: 1200x800
+    placement: after_h2
+    after_heading: "Kolik minut stačí"
+    alt: Brankář před zákrokem pracuje s krátkými kroky mezi kužely.
+    prompt: "Realistic youth goalkeeper warm-up drill, short footwork steps between cones before a save, coach nearby, natural daylight, no text, no watermark, 3:2"
 ---
 
 <h1>Brankářská rozcvička před zápasem: 10 minut na první zákrok</h1>

@@ -114,6 +114,23 @@ Status:
 
 - scaffold now
 
+### 7. `bu1-idoklad-billing-ops`
+
+Purpose:
+
+- run BU1 invoicing and billing workflows in iDoklad
+- inspect contacts, invoices, payments, unpaid documents, and webhooks
+- create or update billing records with explicit confirmation guardrails
+
+Dependencies:
+
+- iDoklad API v3
+- BU1 billing conventions and idempotency rules
+
+Status:
+
+- scaffold now
+
 ## Order Of Use
 
 ### Daily analysis

@@ -38,9 +38,18 @@ evidence_sources:
 # Images
 images:
   - role: hero
+    kind: photo
     size: 1600x900
+    placement: top
     alt: Brankář při rozehrávce nohama otevírá tělo do volného prostoru
     prompt: "Realistic sports photo, football goalkeeper receiving a back pass and distributing with feet, open body shape, teammates ahead, training pitch, authentic match-like pressure, sharp focus, no text, no watermark, 16:9"
+  - role: first-touch-angle
+    kind: photo
+    size: 1200x800
+    placement: after_h2
+    after_heading: "Chyba 1: Brankář si bere první dotek proti tlaku"
+    alt: Brankář prvním dotekem otevírá tělo od pressingu do volného prostoru.
+    prompt: "Realistic football training photo, goalkeeper opening body shape with first touch away from pressure, passing lanes visible, match-like pressing, daylight, no text, no watermark, 3:2"
 ---
 
 <h1>Rozehrávka brankáře nohama: 6 chyb, které zbytečně odevzdávají míč</h1>

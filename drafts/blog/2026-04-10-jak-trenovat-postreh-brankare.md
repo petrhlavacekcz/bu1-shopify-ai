@@ -40,15 +40,23 @@ evidence_sources:
 # Images
 images:
   - role: hero
+    kind: photo
     size: 1600x900
+    placement: top
     alt: Mladý brankář při tréninku postřehu reaguje na míč z krátké vzdálenosti
     prompt: "Realistic sports photo, youth football goalkeeper training reaction speed, teenage goalkeeper in low ready stance, coach tossing a ball from short distance, sharp focus on eyes and hands, natural motion, training ground atmosphere, clean background, no text, no watermark, 16:9"
-  - role: supporting
+  - role: reaction-color-cue
+    kind: photo
     size: 1200x800
+    placement: after_h2
+    after_heading: "7 cvičení na postřeh pro brankáře"
     alt: Mladý brankář sleduje barevný povel před zakončením
     prompt: "Realistic youth football goalkeeper drill, coach showing colored marker before a shot, teenage goalkeeper reacting in training stance, daylight training session, no text, no watermark"
-  - role: supporting
+  - role: rebound-recovery
+    kind: photo
     size: 1200x800
+    placement: after_h2
+    after_heading: "Co má brankář v situaci sledovat"
     alt: Mladý brankář se po prvním zákroku rychle vrací do postoje
     prompt: "Realistic youth goalkeeper training, rebound save sequence, teenage goalkeeper recovering after first block and preparing for second shot, authentic football training setup, no text, no watermark"
 ---
